@@ -15,7 +15,7 @@ Wikipedia has a detailed introduction to the game mechanics [3]. For further ana
 
 # Tools Used
 
-- Python [7], a widely-used general-purpose programming language with many libraries for efficient numerical computation.
+- [Python](https://www.python.org), a widely-used general-purpose programming language with many libraries for efficient numerical computation.
 - Pokémon Showdown [4], an open-source [5] battle simulator.
 - TensorFlow [6], an open-source machine learning framework for Python which efficiently implements many models and training techniques.
 
@@ -39,5 +39,3 @@ Wikipedia has a detailed introduction to the game mechanics [3]. For further ana
 [5]: https://github.com/Zarel/Pokemon-Showdown
 
 [6]: http://tensorflow.org/
-
-[7]: https://www.python.org/
