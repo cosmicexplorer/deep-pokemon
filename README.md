@@ -17,9 +17,7 @@ Wikipedia has a detailed introduction to [the Pokémon game mechanics](https://e
 
 # Tools Used
 
-- [Python](https://www.python.org), a widely-used general-purpose programming language with many libraries for efficient numerical computation.
 - [Pokémon Showdown](http://pokemonshowdown.com/), an open-source battle simulator.
-- [TensorFlow](TensorFlow), an open-source machine learning framework for Python which efficiently implements many models and training techniques.
 
 # TODO
 
@@ -29,3 +27,43 @@ Wikipedia has a detailed introduction to [the Pokémon game mechanics](https://e
     - Documentation produced to explain the rules of the toy game, how to run the script, and how to evaluate its accuracy.
 3. [ ] Encode game mechanics into a script which uses TensorFlow to play entire games against human opponents on the simulator.
     - Documentation produced to explain how the bot is trained, what information it stores, and how its effectiveness will be evaluated.
+
+# Notes
+## Reverse Engineering the Pokémon Showdown Client
+- all updates to game state are exactly the same as in a [replay](OU-2015-03-13-getbacker-crashinboombang.html)
+    - everything sent over single websocket
+        - this is then echoed to the console log with `<<` in front
+            - e.g. this [example console output](play.pokemonshowdown.com-1488188260083.log)
+    - client has a huge number of functions which process game state
+        - message creation has no centralized documentation or even function to create them (lol)
+            - *most* socket msgs sent from `Battle.prototype.send(...args)` (in `Battle` class)
+                - this is defined in `room-battle.js` in the server repo
+            - search for calls to:
+                - `this.send()`
+                - `\|[^\|]+\|`, for calls which FORMAT THEMSELVES
+            - file `battle-engine.js` in server MIGHT have all of the calls relevant to battle
+                - still spread across many functions
+
+## Implementing MCTS and Derivatives
+- plug-and-play implementations are not available for MCTS in *any* widely-used machine learning framework
+    - descriptions and basic implementations *do* exist
+        - e.g. [RocAlphaGo](https://github.com/Rochester-NRT/RocAlphaGo) (specifically [mcts.py](https://github.com/Rochester-NRT/RocAlphaGo/blob/develop/AlphaGo/mcts.py)) and [this blog post](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/)
+        - there are **at most 10** possible actions in 1v1 Pokémon (4 moves and up to 5 switches), which may help in traversing tree
+            - state includes current Pokémon, so don't need to have individual move names, just move index (as long as team stays static)
+                - can make this into move names if we want to go to team generation?!
+- docs for [UCT](papers/uct.pdf) and [AlphaGo's approach](papers/AlphaGoNaturePaper.pdf) in repo
+    - also see [RocAlphaGo's explanation](https://github.com/Rochester-NRT/RocAlphaGo/wiki/01.-Home)
+- can use tf or other lib for the neural net part
+- [this description of AlphaGo](https://github.com/Rochester-NRT/RocAlphaGo/wiki/01.-Home) seems to make a 3-phase approach reasonable
+    1. pure tree search (value)
+    2. add supervised policy network (guessing expert play)
+    3. fast policy (maybe)
+
+## Evaluation Methods
+- consider openai gym?
+    - think this is intended to evaluate a generic algorithm on many games, not a single game
+    - can still peruse their docs to see if they have any interesting ideas
+- consider an evaluation metric of perhaps success rate vs other players on ladder?
+    - (to be used only on validation set?)
+    - this is essentially what a ladder ranking is trying to do
+        - it's kinda like chess's `ELO`
