@@ -1,7 +1,9 @@
 deep-pokemon
 ============
 
-I don't like losing, so I turned to our machine overlords for help. Let's play Pokémon [1]!
+I don't like losing, so I turned to our machine overlords for help. Let's play Pokémon!
+
+*The Pokémon logos, characters, and game mechanics are intellectual property of Nintendo. This project investigates computational techniques to play an abstract, simulated version of the Pokémon battle system. This software is not an alternative in any way to the experience of playing the game.*
 
 *submitted as a final project for the Computational Economics course at Vanderbilt University, spring 2017*
 
@@ -25,8 +27,6 @@ Wikipedia has a detailed introduction to the game mechanics [^1]. For further an
     - Documentation produced to explain the rules of the toy game, how to run the script, and how to evaluate its accuracy.
 3. [ ] Encode game mechanics into a script which uses TensorFlow to play entire games against human opponents on the simulator.
     - Documentation produced to explain how the bot is trained, what information it stores, and how its effectiveness will be evaluated.
-
-[1]: The Pokémon logos, characters, and game mechanics are intellectual property of Nintendo. This project investigates computational techniques to play an abstract, simulated version of the Pokémon battle system. This software is not an alternative in any way to the experience of playing the game.
 
 [^1]: https://en.wikipedia.org/wiki/Gameplay_of_Pok%C3%A9mon#Pok.C3.A9mon_Battles
 
