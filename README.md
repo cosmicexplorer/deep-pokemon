@@ -3,7 +3,7 @@ deep-pokemon
 
 I don't like losing, so I turned to our machine overlords for help. Let's play Pokémon!
 
-*The Pokémon logos, characters, and game mechanics are intellectual property of Nintendo. This project investigates computational techniques to play an abstract, simulated version of the Pokémon battle system. This software is not an alternative in any way to the experience of playing the game.*
+*The Pokémon logos, characters, and game mechanics are intellectual property of Nintendo. This project investigates computational techniques to play an abstract, simulated version of the Pokémon battle system. This software cannot be used as an alternative to the experience of playing the game in any way.*
 
 *submitted as a final project for the Computational Economics course at Vanderbilt University, spring 2017*
 
