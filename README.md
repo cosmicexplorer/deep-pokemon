@@ -1,7 +1,7 @@
 deep-pokemon
 ============
 
-I don't like losing, so I turned to our machine overlords for help. Let's play Pokémon [^1]!
+I don't like losing, so I turned to our machine overlords for help. Let's play Pokémon [^1] !
 
 *submitted as a final project for the Computational Economics course at Vanderbilt University, spring 2017*
 
