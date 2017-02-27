@@ -1,0 +1,2400 @@
+GET https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js net::ERR_BLOCKED_BY_CLIENT
+>> |/cmd rooms
+>> |/autojoin 
+<< |updateuser|Guest 1275791|0|1
+|formats|,1|SM Singles|[Gen 7] Random Battle,f|[Gen 7] Unrated Random Battle,b|[Gen 7] OU,e|[Gen 7] Ubers,e|[Gen 7] UU,e|[Gen 7] RU (alpha),e|[Gen 7] LC,e|[Gen 7] Anything Goes,e|[Gen 7] CAP,e|[Gen 7] Battle Spot Singles,e|[Gen 7] Battle Spot Special 2,e|[Gen 7] Custom Game,c|,1|SM Doubles|[Gen 7] Random Doubles Battle,f|[Gen 7] Doubles OU,e|[Gen 7] Doubles Ubers,e|[Gen 7] VGC 2017,e|[Gen 7] Battle Spot Doubles,e|[Gen 7] Doubles Custom Game,c|,2|OM of the Month|[Gen 7] Inheritance,e|[Gen 7] Mergemons,c|,2|Other Metagames|[Gen 7] Balanced Hackmons,c|[Gen 7] Balanced Hackmons (suspect test),a|[Gen 7] 1v1,e|[Gen 7] Monotype,e|[Gen 7] Mix and Mega,e|[Gen 7] Almost Any Ability,e|[Gen 7] Sketchmons,e|[Gen 7] Hidden Type,c|[Gen 7] BH Doubles,c|OU Theorymon,c|Gen-NEXT OU,c|,2|Randomized Metas|Battle Factory,f|[Gen 7] Challenge Cup 1v1,f|[Gen 7] Monotype Random Battle,d|[Gen 7] Hackmons Cup,f|[Gen 7] Doubles Hackmons Cup,d|,3|RoA Spotlight|[Gen 3] ADV 200,e|,3|ORAS Singles|OU,e|Ubers,e|UU,e|RU,e|NU,e|PU,e|LC,e|Anything Goes,e|CAP,c|Battle Spot Singles,e|Inverse Battle,c|[Gen 6] Random Battle,f|Custom Game,c|,3|ORAS Doubles/Triples|Doubles OU,e|Doubles Ubers,c|Doubles UU,e|VGC 2016,e|Battle Spot Doubles,e|[Gen 6] Random Doubles Battle,d|Doubles Custom Game,c|Battle Spot Triples,e|Triples Custom Game,c|,4|BW2 Singles|[Gen 5] OU,e|[Gen 5] Ubers,e|[Gen 5] UU,e|[Gen 5] RU,e|[Gen 5] NU,e|[Gen 5] LC,e|[Gen 5] GBU Singles,c|[Gen 5] Random Battle,d|[Gen 5] Custom Game,c|,4|BW2 Doubles|[Gen 5] Doubles OU,e|[Gen 5] GBU Doubles,c|[Gen 5] Doubles Custom Game,c|,4|Past Generations|[Gen 4] OU,e|[Gen 4] Ubers,e|[Gen 4] UU,e|[Gen 4] LC,e|[Gen 4] Custom Game,c|[Gen 4] Doubles Custom Game,c|[Gen 3] OU,e|[Gen 3] Ubers,e|[Gen 3] Custom Game,c|[Gen 2] OU,e|[Gen 2] Ubers,c|[Gen 2] Random Battle,d|[Gen 2] Custom Game,c|[Gen 1] OU,e|[Gen 1] Ubers,c|[Gen 1] OU (tradeback),c|[Gen 1] Random Battle,f|[Gen 1] Challenge Cup,9|[Gen 1] Stadium,c|[Gen 1] Custom Game,c
+<< |queryresponse|rooms|null
+<< |challstr|4|65169d5aa8b4d0055094b66ed84602794e8b16f887d70081e538fabe369c9feff2c6ed3a01f45b4356b4b99dcaa43d72a504c5961d96b7070af88a29b09fc416470a7d604fe212ad66268ab63fc523e7748f30e766be1ffbe8c6aa2294520aa290613b6d1d40c8c5b6881951d848c84ba8432d867f5add526eecae5870034b50
+<< |queryresponse|rooms|{"official":[{"title":"Lobby","desc":"Still haven't decided on a room for you? Relax here amidst the chaos.","userCount":417},{"title":"Tournaments","desc":"Scripted tours and user-created formats here, 24/7!","userCount":258},{"title":"Help","desc":"Having troubles? Ask for help from one of our friendly staff!","userCount":109}],"chat":[{"title":"OverUsed","desc":"Smogon's most popular tier and central metagame!","userCount":324},{"title":"Roleplaying","desc":"Join a world where your imagination is the only limit!","userCount":67},{"title":"Tech & Code","desc":"print 'hello world'; We aren't technical support.","userCount":22},{"title":"Trivia","desc":"Learn something new every day!","userCount":46},{"title":"Mafia","desc":"A chat game about deception, intrigue, and strategy. Can you survive the night?","userCount":26},{"title":"Cafe Le Wow","desc":"Pokémon Showdown's Food Room! #PutAnEggOnIt","userCount":26},{"title":"Scavengers","desc":"Participate in the fun scavenger hunts!","userCount":26},{"title":"Italiano","desc":"Benvenuti nella room italiana di PS!","userCount":24},{"title":"Other Metas","desc":"Play something different. Play Other Metagames made by the community.","userCount":70},{"title":"NeverUsed","desc":"Come play the best tier ever :D","userCount":27},{"title":"Wi‐Fi","desc":"Wi-Find Trades, Battles, or Breed anywhere else?","userCount":122},{"title":"Monotype","desc":"Who wants type variety when you can have six dragon types?","userCount":129},{"title":"Français","desc":"Bienvenue dans la salle française","userCount":47},{"title":"Little Cup","desc":"As dangerous as cute! Try out our tier comprised of baby Pokémon species!","userCount":31},{"title":"UnderUsed","desc":"Underused but not underplayed!","userCount":104},{"title":"Sports","desc":"Yes, but can he do it on a cold rainy night in Stoke?","userCount":23},{"title":"Ubers","desc":"The most inclusive of Smogon's tiers, allowing the use of any Pokémon species!","userCount":68},{"title":"Português","desc":"Bem-Vindos à sala para todos os falantes de português!","userCount":14},{"title":"RarelyUsed","desc":"Come try out RU Alpha!","userCount":55},{"title":"Competitive Tutoring","desc":"Quick teambuilding and battling advice for all tiers","userCount":62},{"title":"Deutsche","desc":"Der Raum der deutschen Community auf PS!","userCount":27},{"title":"The Happy Place","desc":"Come on in and hang out a while! We’re here to listen if you want to talk!","userCount":71},{"title":"CAP Project","desc":"Game Freak could learn a thing or two from us.","userCount":16},{"title":"Anime and Manga","desc":"Watch Chinese Cartoons and Read Moon Glyphs with us here.","userCount":49},{"title":"Chess","desc":"An elegant game, from a more civilized age","userCount":15},{"title":"TV & Books & Films","desc":"Literary critic? Entertainment enthusiast? This one's for you.","userCount":24},{"title":"Nederlands","desc":"De room voor alle Nederlandstaligen.","userCount":16},{"title":"The Studio","desc":"Share, discuss, and listen to music with us!","userCount":24},{"title":"Game Corner","desc":"Play games and bet responsibly. No coin case needed.","userCount":50},{"title":"VGC","desc":"The room for the official competitive format!","userCount":185},{"title":"Battle Spot","desc":"Sun & Moon's official in-game ranked ladder metagames and competitions.","userCount":23},{"title":"Health & Fitness","desc":"Share advice, seek help or look for motivation from others.","userCount":16},{"title":"PU","desc":"Smogon's newest official metagame!","userCount":26},{"title":"Smash Bros","desc":"64, Melee, Brawl, PM, and Smash 4! Choose your game, and prepare to duke it out!","userCount":28},{"title":"Video Games","desc":"RPGs, Shooters, Consoles and Computers. There's more than just Pokémon.","userCount":23},{"title":"Writing","desc":"Prose or Poetry, we invite all authors to share their works and wordplay.","userCount":41},{"title":"Survivor","desc":"Try to be the last person alive! Who can you trust?","userCount":34},{"title":"Art","desc":"Consult, converse, and collaborate with artists of all skill levels.","userCount":30},{"title":"MOBA","desc":"Come talk about bad teammates in your MOBA games and Overwatch here!","userCount":35},{"title":"MMO","desc":"Play or discuss MMOs, flash based games, or MMORPGs here with friends!","userCount":17},{"title":"Battle Dome","desc":"A text-based RPG, with weapons, classes, and magic galore!","userCount":14},{"title":"中文 Chinese","desc":"欢迎来自世界各地的中文玩家","userCount":25},{"title":"Smogon Doubles","desc":"Double the Pokémon, double the fun!","userCount":22},{"title":"Cosmopolitan","desc":"Explore the cultures, destinations, fashion, and wildlife of the world.","userCount":21},{"title":"Pro Wrestling","desc":"WWE, Lucha Underground, New Japan and more!","userCount":24},{"title":"Scholastic","desc":"A forum for the discussion of University topics as well as current affairs.","userCount":36},{"title":"Rate My Team","desc":"Everybody is free to rate or ask for advice!","userCount":66},{"title":"Splatoon","desc":"Ink the world! Splat it out with fellow squids! ...or kids or something.","userCount":13},{"title":"日本語 Japanese","desc":"日本語で会話したい方はこちらへ！","userCount":29},{"title":"TCG & Tabletop","desc":"Board Games, War Games, Card Games! If it fits on a table it fits in the room!","userCount":20},{"title":"Anything Goes","desc":"Actually allows the use of any Pokémon","userCount":38},{"title":"Sun & Moon","desc":"Discussion for the new Pokemon games!","userCount":114},{"title":"YouTube","desc":"Broadcast Yourself! BETA","userCount":36},{"title":"Pokemon Go","desc":"The game that finally got everyone to GO outside","userCount":30},{"title":"Español","desc":"¡Bienvenido a la Sala Española, una sala para hispanoparlantes!","userCount":88},{"title":"Ruins of Alph","desc":"Competitive discussion for Generations 1-6. Come wallow in nostalgia with us!","userCount":39}],"userCount":9169,"battleCount":758}
+>> |/join overused
+<< >overused
+|init|chat
+|title|OverUsed
+|users|298,*TIBot, FloPe, Winter's curse, mikewwm8, asdfdsase, Waymire, zionism_, Fizzsics, cartoon yall, knightenvy, ShinyHuntingVGC, Pikana, Benihana, KingLeafStorm, SheinG, mxiia, JishFish, superskarm183, Leamus, MeepBard, sniffablecow, andypandy00, folo08, BigPimpin12, Mambroeru, wheresdadslunch, MistressHell, Carl Memeson\, kyrolite, Anemictomb, GarancePSL, siiko, guardian92, I love goth stall, smorc me go face, mistermudkiper, Dr. Ambiguous, DM=DragonMaster, Wild Dingleberrys, NicLovin, DarkDreamrLuna, Jake From St Farm, Argus Nidra, Weaziel, Cappelloarighe, garebearsquared, HO king, HatofTime, anarchy rains, Yray8123, CrispyWalrus, GreySlayer1, Ryujinn, p&h_together, GiftedPack, joeypow,‽MichaelXD, Abacus The Great, tomsterbruhh, akhil327, Astral Flow, S-Arcobaleno, giantpeenor, Crtl★Zr0,@Disorient, bigflav, ChanseysPhatAss, alex1234679, John Luan, thegingerdragon, Zgdu, call le po po, MeanMrSnorlax, Yonegga, Its_Geniside, DeathToWork, Snoozilol, MeloettaDaGreatest, Rodaku, LadyLilith2401, asdf.jpg, Kapena, gucci louis fendi, roirepreS, meyhem l, Bamarah, XingStyx, pseika, DreamsNeverDie, basicallysteve, Nigamoto, Dragonite Blows, Rawr_revo, mawla, Princess Snowy, Darkoness21, Vehement Incendium, richardho92, Yiciiyfiyf, Super Nerd Daniel, Juliette Bangid, HyperGardevoir, camel ass, Sambo, TheJFrenzy1,*Scrappie, You're Next Nerd, teamcali15, not haruno, oxudee, SmilingFreddie, bahamahariyamas, Kev3392, PompTen, Hacksor, sighlax, an0baga, jiffykat, Flounderbasket, Bi In Tha Trap❤, victordoblew, Scald Er What?, MightyDankMagician, AbrarWasee, puta lele, Swimmer Keanu, tungsten_mammoth, MH-Zero, LifeOrbSeismicToss, GaryTheGengar, nimarco1, arealpseudouser, RedzoneX, pppr, Contacting, tebdoog, AmethystTheEspeon, Aku Mau Ngetroll, shewantstheDDD, Creator of Chaos, I'm Virus, TwoLargeGayMen, sexy gamer gorilla, Railroad Authority, gia1111, 10th Squad Taichou, iiilllllll, lordwimsyyoutuber, Rizieq Shihab, Kaynaire, ohno25, Prankster is BS, fat eddy, Bad Players, aagney, nohbdyzperfect, lukepowerranger3, zhuquiin, xGangg, gaurav kukreja, tmwasted, rileykiller5, dk, Bl153, lajimengxin, Lit teams, ariem2403, 74URS74, Phoenix Christ, Cautious, Zarles, DeathbyPyukumuku, coolfreeze, TeamHaymaker, SiPuwat(っ^‿^)っ, daerok, ubersistheworst, Panther-T, aubidur, GeniusX, Pawnf, Antagonized, Fene, DankMuffin, Zezima ★,@Baton Mash (, Jammes06, lolagain, Lyfhax0r, braiatan, sartlol,#playerW17, hinnizzzzzz, Avaritia~!, l213, falafel dog, johhhn wayyyne,+dogクknees, FLShakezula, BlackScizor84, SensualDane, Ferasweep, ACwolf, Nefan, BigMich, Lycon,@Punchshroom,+Cynde ♥, FreedGardener, Just Press Accept, charli303, The Miracle, Lord Wallace, Pumbleton, cancer0, ZeekWorsttrainer, Zibo, Thick Kev, jesus used surf, gen7Poison, ZoldPGL, Grayser,‽QQ le pralin, team7092, maxgamer 1, TestSubject01, MooneBoyIrish, thebridgetopeace, Vubon, toin, tomyboca05, NeilGames, mr.hight, mackindu, LaQuantum, beast boost, testmon1, Yay61, Blazelatiass, Bad Grammar Man, houhahe, bark1, MiniMan247, razzimoz, Bwtned,+l les anon l, Planktonz, kbjkbj, Alvar ͜.., Motis-Vhayle, Deathbat4946, abk1997, Cool.isMoltress◕‿◕, 5th, Its ok to burn, Young Snackz, JaySyn, wolvox, Praddle, bfif, stairs of learning, Best pokemon names, Blazen͜͡ix☆, auyan, Reve Brule, TheRealStevenKing, Garbagery, asianiam, Neess_, Machiavelli, talonspam, dugtrio acceptance, akitos, chubbygibby, Don Jon Bon Jovi, elJorgeLc, hessu, PussyslayerXXX6666, fudzy, coolboy1738, G0ldenIX, 2kPiT, Rekzius, EduardundHD, hlvsdyga, Chaospirex, Gandash, asfeqafewgwefd, leilai,#Orda-Y, anonymous2, Kalm2014, NitioWO, danksnaps, Jax11111, Terra-Freak, olisosig, Ratodecampo
+|:|1488186237
+|c:|1488185954| beast boost|you know who this is right
+|c:|1488185956| Loloartsi|cant figure a fun set to use in OU
+|c:|1488185960|#playerW17|well, not saying that they **will** be banned
+|c:|1488185964|#playerW17|yea its tigers jaw
+|c:|1488185965| Alvar ͜..|i dont think ash gren is broken tho
+|c:|1488185969| Garbagery|Fun set loloartsi here is one
+|c:|1488185973| Garbagery|bulk up slack off infernape
+|c:|1488185977| Garbagery|z hypnosis bulk up gallad
+|c:|1488185978| beast boost|specs primarina, sd orb chomp, agility metagross, Loloartsi
+|c:|1488185981| arealpseudouser|son of a bitch. how did dugtrio dodge the ban?
+|c:|1488185981| beast boost|uh
+|c:|1488185983|#playerW17|sounds like u like losing to tapu fini
+|c:|1488185986| beast boost|kartana if fun
+|c:|1488185990|#playerW17|I second primarina
+|c:|1488185992|#playerW17|cool af mon
+|c:|1488185993| Loloartsi|Ive already tried out all of those ;-(
+|c:|1488185994| beast boost|mhm
+|c:|1488185998| beast boost|ok gimme a sec
+|c:|1488186001| Garbagery|Tailwind tial glow b pass volbeat
+|c:|1488186006| beast boost|use gigavolt havoc koko
+|c:|1488186012| Garbagery|Oh try
+|c:|1488186014| Loloartsi|oi
+|c:|1488186020|#playerW17|>gigavolt havoc
+|c:|1488186021| Garbagery|maranga berry curse alolan exegutor
+|c:|1488186022|#playerW17|I think you mean
+|c:|1488186024| beast boost|no
+|c:|1488186026|#playerW17|z-brave bird
+|c:|1488186028| Alvar ͜..|its a good set
+|c:|1488186034| Alvar ͜..|gigavolt havoc yeah
+|c:|1488186034| beast boost|the hottest set on earth playerW17
+|c:|1488186037| beast boost|that+loom
+|c:|1488186037| Loloartsi|SSSSkoko LOL
+|c:|1488186038| Garbagery|Electric seed clam mind roost koko
+|c:|1488186038| beast boost|hnnng
+|tournament|battleend|The Hallows|Rawr_revo|loss|1,3|success|battle-ou-539667659
+|c:|1488186040| Loloartsi|thats fire
+|c:|1488186052|#playerW17|yea u drop venu / tang / amoon on their necks
+|c:|1488186053| mr.hight|does gourgeist or trevenant make good trick room setter/user ?
+|c:|1488186057|#playerW17|so then add a breloom like beast boost said
+|c:|1488186059| beast boost|you also
+|c:|1488186060|#playerW17|and drop teams
+|c:|1488186060| Garbagery|Kinda
+|c:|1488186062| beast boost|weaken maro
+|c:|1488186064| beast boost|for loom
+|c:|1488186064|+l les anon l|no mr.hight
+|c:|1488186074| beast boost|and it resets terrain playerW17
+|c:|1488186080| Its ok to burn|what should i run for last move on scarf terrak? eq?
+|c:|1488186082|#playerW17|tbf
+|c:|1488186085| beast boost|rock slide, Its ok to burn
+|c:|1488186089| mr.hight|I'm looking for another trick room setter with a different type
+|c:|1488186091| beast boost|u cnt miss vs volc
+|c:|1488186092|#playerW17|electric terrain  + spore is pretty anti synergy
+|c:|1488186092| Its ok to burn|i has  rock slide
+|c:|1488186095| Its ok to burn|It
+|c:|1488186095| beast boost|no i mean
+|c:|1488186098| beast boost|you dont run spore
+|c:|1488186099|#playerW17|I think u work around that though
+|c:|1488186099| TestSubject01|mr.hight trevenant doesnt make a good anything
+|c:|1488186101|#playerW17|yea
+|c:|1488186103|@Baton Mash (|p2 mage are good tr stters
+|c:|1488186104|#playerW17|I wouldnt run spore either
+|c:|1488186106| beast boost|it's to reset lele terrain
+|c:|1488186108| beast boost|i don't
+|c:|1488186109|#playerW17|SD 3 attacks imo
+|c:|1488186110| beast boost|sd 3 attaks
+|c:|1488186110|@Baton Mash (|and if ur lysergic
+|c:|1488186112| beast boost|life orb
+|c:|1488186113| beast boost|mhm
+|c:|1488186115| beast boost|set/
+|c:|1488186115|@Baton Mash (|u use alo-eggy
+|c:|1488186121|#playerW17|Its ok to burn probably pjab
+|c:|1488186131| beast boost|p2 passed me a team with
+|c:|1488186135| beast boost|ghostium tr mage
+|c:|1488186137|#playerW17|taps all 4 tapus for ok dmg
+|c:|1488186139|+l les anon l|so that's why people are asking on what set should eggy be
+|c:|1488186141| Garbagery|Mr hight a good trick room setter is mega bannete if it comes back
+|c:|1488186142| beast boost|i wanna try it out but i don't wanna play ou
+|c:|1488186143| beast boost|at all
+|c:|1488186147| Its ok to burn|pjab sounds neat
+|c:|1488186147|@Baton Mash (|lol
+|c:|1488186148| Its ok to burn|tbh
+|c:|1488186156| Alvar ͜..|wait
+|c:|1488186163| beast boost|Garbagery, trick room is -6 prio with prankster
+|c:|1488186165| Alvar ͜..|what did lysergic use
+|c:|1488186174|@Baton Mash (|he used alo-eggy tr
+|tournament|battleend|DcX☆StoOner☆Elite|RedzoneX|loss|0,3|success|battle-ou-539668265
+|c:|1488186178| Garbagery|Who cares, keep bannete slow
+|c:|1488186179|@Baton Mash (|w/ his staple conk
+|c:|1488186182| Alvar ͜..|but where
+|c:|1488186182| Garbagery|it has a MASSIVE attack
+|c:|1488186187|@Baton Mash (|in a roomtour
+|c:|1488186191| Alvar ͜..|oh ok
+|tournament|battlestart|RedzoneX|Rawr_revo|battle-ou-539669349
+|c:|1488186197|*Scrappie|/announce Watch the tournament finals! <<battle-ou-539669349>>
+|c:|1488186198| Garbagery|And decent bulk so it doest need the priority
+|c:|1488186206| Planktonz|anyone have a good idea for a core with dual dance thundy t?
+|c:|1488186218| beast boost|spikes ninja
+|c:|1488186223| beast boost|pref w hp fire
+|c:|1488186232| Terra-Freak|is mega mawile available now?
+|c:|1488186235| beast boost|gunk fire beam/hydro spikes
+|raw|<div class="infobox infobox-roomintro"><div class="infobox-limited"><table bgcolor="#000" width="100%"><tbody><tr><td align="center">    <div style="position: relative; margin: auto; width:495px; height:193px">        <img src="//i.imgur.com/WACXhT2.png" width="495" height="190"/>        <div style="position:absolute; bottom:170px; left:145px; margin:auto; width:200px; background-color:rgba(235, 235, 235, 0.8); color:red; border:solid rgba(64, 50, 52, 0.8); border-width:1px 4px; border-radius:10px"><marquee><a href="http://www.smogon.com/forums/threads/sm-ou-suspect-process-round-2-voting.3596753/" style="text-decoration:none"><b>Dugtrio STAYS in OU </b></a></marquee></div>        <button style="position:absolute; right: 4px; top:2px" class="button" name="send" value="/pm scrappie, .signup ou"><font size="1">Request Tour</font></button>        <details style="position: absolute; bottom: 3px; left: 95px; width: 90px; background-color: rgba(235, 235, 235, 0.8); border: solid rgba(64, 50, 52, 0.8); border-width: 1px 2px; border-top-right-radius: 15px; border-bottom-left-radius: 15px; color: black; opacity: 1" title="Click to expand">            <summary style="cursor: pointer">The Forum</summary>            <p>                <a href="http://www.smogon.com/forums/forums/sm-overused.387/" target="_blank">OU Forum</a>                <br/>                <a href="http://www.smogon.com/articles/ou-forum-introduction" target="_blank">Forum Intro</a>                <br/> <a href=http://www.smogon.com/forums/threads/ou-forum-guide-and-announcements.3591875/ target="_blank">Forum Guide</a>            </p>        </details>        <details style="position: absolute; bottom: 3px; left: 305px; width: 90px; background-color: rgba(235, 235, 235, 0.8); border: solid rgba(64, 50, 52, 0.8); border-width: 1px 2px; border-top-left-radius: 15px; border-bottom-right-radius: 15px; color: black; opacity: 1" title="Click to expand">            <summary style="cursor: pointer">Sub-Rooms</summary>            <p>                <button name="joinRoom" value="ouworkshop" style="background-color: #d1d1e1; color: black; text-decoration: none; border-radius: 10px; border: 1px solid black;">Workshop</button>                <br/>                <button name="joinRoom" value="theorymon" style="background-color: #d1d1e1; color: black; text-decoration: none; border-radius: 10px; border: 1px solid black;">Theorymon</button>            </p>        </details>        <details style="position: absolute; bottom: 3px; left: 400px; width: 90px; background-color: rgba(235, 235, 235, 0.8); border: solid rgba(64, 50, 52, 0.8); border-width: 1px 2px; border-top-left-radius: 15px; border-bottom-right-radius: 15px; color: black; opacity: 1" title="Click to expand">            <summary style="cursor: pointer">Useful Links</summary>            <p>                <a href="http://www.smogon.com/forums/threads/sm-ou-viability-ranking-thread.3590726/" target="_blank">V. Ranking</a>                <br/>                <a href="http://www.smogon.com/forums/threads/sm-ou-sets-viability-rankings.3592113/" target="_blank">Set V.Ranking.</a>                <br/>                <a href="http://www.smogon.com/forums/threads/sm-ou-role-compendium.3591882/" target="_blank">Role comp.</a>                <br/>                <a href="http://www.smogon.com/forums/threads/oras-ou-sample-teams.3571343/#post-6787292" target="_blank">ORAS Teams</a>                <br/>                <a href="http://www.smogon.com/forums/threads/ou-good-cores.3591999/" target="_blank">Cores</a>            </p>        </details>        <div style="position: absolute; bottom: 3px; left: 190px; width: 110px; background-color: rgba(235, 235, 235, 0.9); border: solid rgba(64, 50, 52, 0.8); border-width: 1px 2px; border-radius: 10px; opacity: 1">            <a href="http://www.smogon.com/dex/sm/formats/ou/" target="_blank" style="text-decoration: none">Overused Tier List</a>        </div>        <details style="position: absolute; bottom: 3px; left: 1px; width: 90px; background-color: rgba(235, 235, 235, 0.8); border: solid rgba(64, 50, 52, 0.8); border-width: 1px 2px; border-top-right-radius: 15px; border-bottom-left-radius: 15px; color: black; opacity: 1" title="Click to expand">            <summary style="cursor: pointer">Rules</summary>            <p style="background-color: rgba(235, 235, 235, 0.9); width: 464px; border: 2px solid rgba(64, 50, 52, 0.8); border-left: none; border-radius: 10px; padding-left:8px; padding-top:4px; padding-bottom:4px; padding-right:8px; margin-bottom: 20px; margin-left: 5px" align="left">                1) Please try to stick to OU discussion.<br/>2) Do not spam, flame, troll, or generally be a bad chat presence.<br/>3) Be respectful and accepting of everyone's views.<br/>4) Do not post random links (replays and battles included) that do not pertain to the OU tier.<br/>5) Please do not discuss staff decisions inside the room.<br/>6) Follow all of Pokemon Showdowns global rules in addition to these.<br/><small>For more check the <a href="http://hastebin.com/raw/bidegijoto.vhdl" target="_blank">Room Rules</a>, our <a href="http://pastebin.com/Q2vi2CnK" target="_blank">Tournament Rules</a> and the <a href="https://pokemonshowdown.com/rules" target="_blank">Global Rules</a>.</small>            </p>        </details></div></td></tr></tbody></table></div><br /><div class="broadcast-red">Must be rank autoconfirmed or higher to talk right now.</div></div>
+<< >overused
+|uhtml|poll9|<div class="infobox"><p style="margin: 2px 0 5px 0"><span style="border:1px solid #6A6;color:#484;border-radius:4px;padding:0 3px"><i class="fa fa-bar-chart"></i> Poll</span> <strong style="font-size:11pt">How do you feel about Dugtrio&apos;s suspect result? (Dugtrio is NOT banned) http:&#x2f;&#x2f;www.smogon.com&#x2f;forums&#x2f;threads&#x2f;sm-ou-suspect-process-round-2-voting.3596753&#x2f;page-7#post-7250646</strong></p><div style="margin-top: 5px"><button class="button" value="/poll vote 1" name="send" title="Vote for 1. It should have been banned">1. <strong>It should have been banned</strong></button></div><div style="margin-top: 5px"><button class="button" value="/poll vote 2" name="send" title="Vote for 2. I&apos;m glad it wasn&apos;t banned">2. <strong>I&apos;m glad it wasn&apos;t banned</strong></button></div><div style="margin-top: 5px"><button class="button" value="/poll vote 3" name="send" title="Vote for 3. I don&apos;t care">3. <strong>I don&apos;t care</strong></button></div><div style="margin-top: 7px; padding-left: 12px"><button value="/poll results" name="send" title="View results - you will not be able to vote after viewing results"><small>(View results)</small></button></div></div>
+<< >overused
+|tournament|update|{"format":"ou","generator":"Single Elimination","isStarted":true,"isJoined":false,"bracketData":{"type":"tree","rootNode":{"children":[{"children":[{"children":[{"children":[{"children":[{"children":[],"team":"coolboy1738"},{"children":[],"team":"Alvar ͜.."}],"state":"finished","team":"Alvar ͜..","result":"loss","score":[0,1]},{"children":[{"children":[],"team":"Ryoma Nagare"},{"children":[],"team":"LewdestfoxZoroark"}],"state":"finished","team":"Ryoma Nagare","result":"win","score":[1,0]}],"state":"finished","team":"Ryoma Nagare","result":"loss","score":[0,1]},{"children":[{"children":[{"children":[],"team":"DreamsNeverDie"},{"children":[],"team":"Iroll2"}],"state":"finished","team":"DreamsNeverDie","result":"win","score":[1,0]},{"children":[{"children":[],"team":"DcX☆StoOner☆Elite"},{"children":[],"team":"Attract uses roids"}],"state":"finished","team":"DcX☆StoOner☆Elite","result":"win","score":[5,2]}],"state":"finished","team":"DcX☆StoOner☆Elite","result":"loss","score":[0,2]}],"state":"finished","team":"DcX☆StoOner☆Elite","result":"loss","score":[1,3]},{"children":[{"children":[{"children":[{"children":[],"team":"Scrappie"},{"children":[],"team":"Poluke"}],"state":"finished","team":"Scrappie","result":"win","score":[1,0]},{"children":[{"children":[],"team":"Shrekcore"},{"children":[],"team":"lordwimsyyoutuber"}],"state":"finished","team":"lordwimsyyoutuber","result":"loss","score":[0,1]}],"state":"finished","team":"Scrappie","result":"win","score":[1,0]},{"children":[{"children":[{"children":[],"team":"MistressHell"},{"children":[],"team":"l les anon l"}],"state":"finished","team":"MistressHell","result":"win","score":[2,0]},{"children":[{"children":[],"team":"RedzoneX"},{"children":[],"team":"DREFY"}],"state":"finished","team":"RedzoneX","result":"win","score":[5,0]}],"state":"finished","team":"RedzoneX","result":"loss","score":[2,5]}],"state":"finished","team":"RedzoneX","result":"loss","score":[0,2]}],"state":"finished","team":"RedzoneX","result":"loss","score":[0,3]},{"children":[{"children":[{"children":[{"children":[{"children":[],"team":"richardho92"},{"children":[],"team":"jesus used surf"}],"state":"finished","team":"richardho92","result":"win","score":[1,0]},{"children":[{"children":[],"team":"10th Squad Taichou"},{"children":[],"team":"The Hallows"}],"state":"finished","team":"The Hallows","result":"loss","score":[4,4]}],"state":"finished","team":"The Hallows","result":"loss","score":[0,1]},{"children":[{"children":[],"team":"Dark-type Zangoose"},{"children":[],"team":"enz300"}],"state":"finished","team":"Dark-type Zangoose","result":"win","score":[4,0]}],"state":"finished","team":"The Hallows","result":"win","score":[1,0]},{"children":[{"children":[{"children":[],"team":"Amyler"},{"children":[],"team":"Motzand"}],"state":"finished","team":"Motzand","result":"loss","score":[0,1]},{"children":[{"children":[],"team":"Rawr_revo"},{"children":[],"team":"Omg lollol"}],"state":"finished","team":"Rawr_revo","result":"win","score":[4,0]}],"state":"finished","team":"Rawr_revo","result":"loss","score":[3,3]}],"state":"finished","team":"Rawr_revo","result":"loss","score":[1,3]}],"state":"inprogress","room":"battle-ou-539669349"}}}
+<< >overused
+|tournament|updateEnd
+<< >overused
+|c:|1488186237| beast boost|nah, Terra-Freak
+<< >overused
+|J| carmin06
+<< >overused
+|c:|1488186247| Alvar ͜..|I dont like beamless gren
+<< >overused
+|L| gen7Poison
+<< >overused
+|c:|1488186252| Garbagery|Would trick room mega bannete be good in ou
+<< >overused
+|c:|1488186253| beast boost|it's ok
+<< >overused
+|J| xlrrock
+<< >overused
+|c:|1488186258| Terra-Freak|but the online tournament is over :/ when is it gonna be released?
+<< >overused
+|c:|1488186260| Garbagery|it has 471 atk in adamant
+<< >overused
+|L| Praddle
+<< >overused
+|L| Kev3392
+<< >overused
+|c:|1488186266| beast boost|if u wanna not be walled by maro and tran
+<< >overused
+|L| Chaospirex
+<< >overused
+|L| Kalm2014
+<< >overused
+|c:|1488186275|@Punchshroom|Garbagery, u do realize Prankster Trick Room
+<< >overused
+|c:|1488186278| beast boost|still kills lando
+<< >overused
+|c:|1488186281|@Punchshroom|is still only -6 priority
+<< >overused
+|c:|1488186283| Garbagery|ik
+<< >overused
+|c:|1488186283| beast boost|but misses out on chomper
+<< >overused
+|L| stairs of learning
+<< >overused
+|c:|1488186292| beast boost|Punchshroom i told them
+<< >overused
+|c:|1488186293| beast boost|they said
+<< >overused
+|c:|1488186293| Garbagery|ik priority trick room is still last
+<< >overused
+|c:|1488186297| Alvar ͜..|yeah but isnt ice better offensive coverage?
+<< >overused
+|c:|1488186297| beast boost|it has high attack
+<< >overused
+|c:|1488186302| beast boost|depends on team Alvar
+<< >overused
+|c:|1488186306| beast boost|if ur weak to tran
+<< >overused
+|c:|1488186308|@Punchshroom|mNette doesn't have the bulk to set up TR either
+<< >overused
+|c:|1488186310| beast boost|or have bad sis to maro
+<< >overused
+|N|‽Guest 1275947|jinaxel
+<< >overused
+|N|‽Guest 1275947|guest1275947
+<< >overused
+|J|‽Guest 1275947
+<< >overused
+|c:|1488186312| beast boost|then no
+<< >overused
+|c:|1488186312|@Punchshroom|much less the OHKOing power
+<< >overused
+|c:|1488186312| Alvar ͜..|I guess
+<< >overused
+|J| stealth cok
+<< >overused
+|L| 2kPiT
+<< >overused
+|L|‽Guest 1275947
+<< >overused
+|c:|1488186322| abk1997|lando is a problem for stall
+<< >overused
+|L| ubersistheworst
+<< >overused
+|c:|1488186327| beast boost|uh i mean
+trigger: event message:search:update failed with TypeError: Cannot read property 'style' of undefined
+
+<< >overused
+|J| IcOnpenguine
+<< >overused
+|c:|1488186334| beast boost|clef beats it once it has used zmove
+<< >overused
+|c:|1488186335| mr.hight|is venu-M good under trick room ?
+<< >overused
+|c:|1488186337| beast boost|nah
+<< >overused
+|c:|1488186339| beast boost|too passive
+<< >overused
+|J| R15H
+>> |/utm |charizard|charizarditex||dragondance,flareblitz,dragonclaw,earthquake|Jolly|,252,,,4,252|||||]|gyarados|flyiniumz|H|dragondance,waterfall,bounce,taunt|Jolly|,252,4,,,252|||||]|skarmory|salacberry|1|stealthrock,spikes,taunt,bravebird|Jolly|,252,4,,,252|||||]|pheromosa|choicescarf||highjumpkick,uturn,icebeam,rapidspin|Naughty|,252,,4,,252|||||]|greninjaash|choicespecs||watershuriken,darkpulse,hydropump,uturn|Timid|,,4,252,,252|||||]|donphan|assaultvest||earthquake,knockoff,iceshard,rapidspin|Adamant|164,252,,,,92|||||
+>> |/vtm gen7pokebankanythinggoes
+<< |popup|Please provide a valid format.
+<< >overused
+|L| hessu
+<< >overused
+|L| Yonegga
+>> |/utm |charizard|charizarditex||dragondance,flareblitz,dragonclaw,earthquake|Jolly|,252,,,4,252|||||]|gyarados|flyiniumz|H|dragondance,waterfall,bounce,taunt|Jolly|,252,4,,,252|||||]|skarmory|salacberry|1|stealthrock,spikes,taunt,bravebird|Jolly|,252,4,,,252|||||]|pheromosa|choicescarf||highjumpkick,uturn,icebeam,rapidspin|Naughty|,252,,4,,252|||||]|greninjaash|choicespecs||watershuriken,darkpulse,hydropump,uturn|Timid|,,4,252,,252|||||]|donphan|assaultvest||earthquake,knockoff,iceshard,rapidspin|Adamant|164,252,,,,92|||||
+>> |/vtm gen7ou
+<< >overused
+|c:|1488186344| Planktonz|z move clef?
+<< |popup|Your team is valid for [Gen 7] OU.
+<< >overused
+|c:|1488186345| Planktonz|oh
+<< >overused
+|J| Seven134
+<< >overused
+|c:|1488186349| Planktonz|you meant clef beats it
+trigger: event message:search:update failed with TypeError: Cannot read property 'style' of undefined
+
+<< >overused
+|c:|1488186350| beast boost|nah i mean
+<< >overused
+|c:|1488186353| Planktonz|yeah i got it
+trigger: event message:search:update failed with TypeError: Cannot read property 'style' of undefined
+
+<< >overused
+|c:|1488186353| beast boost|lando's zmove
+<< >overused
+|J| JustinPlatinum
+trigger: event message:search:update failed with TypeError: Cannot read property 'style' of undefined
+
+<< >overused
+|L|‽MichaelXD
+<< >overused
+|c:|1488186357| beast boost|cool
+<< >overused
+|N| blarghlfarghl|camelass
+<< >overused
+|L| blarghlfarghl
+<< >overused
+|L| jesus used surf
+<< >overused
+|L| tmwasted
+<< >overused
+|J| lordkaren
+<< >overused
+|c:|1488186370| Alvar ͜..|its hard to play around tho
+<< >overused
+|c:|1488186371| beast boost|probably other stuff tht i cant quite remember im tired
+trigger: event message:search:update failed with TypeError: Cannot read property 'style' of undefined
+
+<< >overused
+|c:|1488186378| Alvar ͜..|if the opp knows how to use it
+trigger: event message:search:update failed with TypeError: Cannot read property 'style' of undefined
+
+<< >overused
+|c:|1488186381| Garbagery|How about trick room diancie
+<< >overused
+|L| JustinPlatinum
+<< >overused
+|c:|1488186387| beast boost|far too fast
+<< >overused
+|J| zxcvbnmqa
+<< >overused
+|L| thebridgetopeace
+<< >overused
+|c:|1488186393| beast boost|unlesss
+<< >overused
+|J| Superchicken0
+<< >overused
+|c:|1488186395| beast boost|you mean regular
+<< >overused
+|c:|1488186398| Garbagery|No the regular slow one
+<< >overused
+|c:|1488186398| Alvar ͜..|I think he menas
+<< >overused
+|c:|1488186400| beast boost|in that case there are better options
+<< >overused
+|c:|1488186400| Alvar ͜..|regular ye
+>> |/trn hmmmmmwow,0,65169d5aa8b4d0055094b66ed84602794e8b16f887d70081e538fabe369c9feff2c6ed3a01f45b4356b4b99dcaa43d72a504c5961d96b7070af88a29b09fc416470a7d604fe212ad66268ab63fc523e7748f30e766be1ffbe8c6aa2294520aa290613b6d1d40c8c5b6881951d848c84ba8432d867f5add526eecae5870034b50,hmmmmmwow,1,1488186260,sim.psim.us,ccd4d24a6fe44b4b,7ff0b4d3aea09792,02d56892f4de1a4f;7c90ae8bd8c1ed3bef2930b1fb1e7acd1626241d9e9007ec2f350f48cbc5c77a2c5af7fea1b6c00bff7029d2627fb20127b559dc2f1d6707b76b67977dc17e776a3dfeafab828ff0b36d07078fade32d6bb6e84e42dd73876295ac7079cb12598f63f3d453ad99a05a921ff7a26918b8f1785bb5466b2efc396eefe7bb107b74ae365fe23b986f9827edcec724d572a3105c6bf63a67a7cbe31f5848ed55a80edd55f5658ef217226662038eccc06ee220ece5bf42334b3c678f4b1373234e74c30bcbba233e0978cf726528571750ada1620f71b548b408ad2f4a3da8d9288fc1864dddead32a5b3abb448b3611a760e05659bde50d3ff6947f4333bcabe6303b881472a6670ce4a6c69eca6fcc694e58d410421c17761af0be784ca691fdc45431e7e1aec2ced3522ad9f35fdf8912352a86c6f64a3c0d002c6e4ffbca2c6204d729c655a034675e8c5a7b3abaec1f316cce605dedcd2017ec26a2b1c9adf3cd8d45e62b8e103b425660c80276c825307031109c17c32fddf95d19b04ace4b29c062e1edb982b82c90cf6f40351ecfb30a36362df56375653ccaf5163ecf574f7c825662038358bc3d72765d2b792636003e94039010e167142755d40fb88ca6dc24c03773abf42affe92d396caef60cdcd1572e61d2487879cb32445181d65e10d79879771fc185fa6e464cf7aaf0e2409fe0cf061dd560f96123e51d9e1b
+<< |updateuser|hmmmmmwow|1|1
+<< >overused
+|J| hmmmmmwow
+<< >overused
+|c:|1488186419| mr.hight|trick room weakness policy diancie is good actually
+<< >overused
+|L|+dogクknees
+>> |/utm |charizard|charizarditex||dragondance,flareblitz,dragonclaw,earthquake|Jolly|,252,,,4,252|||||]|gyarados|flyiniumz|H|dragondance,waterfall,bounce,taunt|Jolly|,252,4,,,252|||||]|skarmory|salacberry|1|stealthrock,spikes,taunt,bravebird|Jolly|,252,4,,,252|||||]|pheromosa|choicescarf||highjumpkick,uturn,icebeam,rapidspin|Naughty|,252,,4,,252|||||]|greninjaash|choicespecs||watershuriken,darkpulse,hydropump,uturn|Timid|,,4,252,,252|||||]|donphan|assaultvest||earthquake,knockoff,iceshard,rapidspin|Adamant|164,252,,,,92|||||
+<< >overused
+|J| tomisntgay
+>> |/search gen7ou
+<< >battle-gen7ou-539669928
+|init|battle
+|title|Gerardon4x vs. hmmmmmwow
+|j|Gerardon4x
+|j|hmmmmmwow
+<< |updatesearch|{"searching":[],"games":{"battle-gen7ou-539669928":"[Gen 7] OU Battle*"}}
+<< >battle-gen7ou-539669928
+|title|Gerardon4x vs. hmmmmmwow
+<< >battle-gen7ou-539669928
+
+|player|p1|Gerardon4x|102
+<< >battle-gen7ou-539669928
+|request|{"teamPreview":true,"side":{"name":"hmmmmmwow","id":"p2","pokemon":[{"ident":"p2: Charizard","details":"Charizard, M","condition":"297/297","active":true,"stats":{"atk":267,"def":192,"spa":228,"spd":207,"spe":328},"moves":["dragondance","flareblitz","dragonclaw","earthquake"],"baseAbility":"blaze","item":"charizarditex","pokeball":"pokeball"},{"ident":"p2: Gyarados","details":"Gyarados, M","condition":"331/331","active":false,"stats":{"atk":349,"def":195,"spa":140,"spd":236,"spe":287},"moves":["dragondance","waterfall","bounce","taunt"],"baseAbility":"moxie","item":"flyiniumz","pokeball":"pokeball"},{"ident":"p2: Skarmory","details":"Skarmory, M","condition":"271/271","active":false,"stats":{"atk":259,"def":317,"spa":104,"spd":176,"spe":262},"moves":["stealthrock","spikes","taunt","bravebird"],"baseAbility":"sturdy","item":"salacberry","pokeball":"pokeball"},{"ident":"p2: Pheromosa","details":"Pheromosa","condition":"283/283","active":false,"stats":{"atk":410,"def":110,"spa":311,"spd":99,"spe":401},"moves":["highjumpkick","uturn","icebeam","rapidspin"],"baseAbility":"beastboost","item":"choicescarf","pokeball":"pokeball"},{"ident":"p2: Greninja","details":"Greninja, M","condition":"285/285","active":false,"stats":{"atk":203,"def":171,"spa":305,"spd":178,"spe":377},"moves":["watershuriken","darkpulse","hydropump","uturn"],"baseAbility":"battlebond","item":"choicespecs","pokeball":"pokeball"},{"ident":"p2: Donphan","details":"Donphan, M","condition":"362/362","active":false,"stats":{"atk":372,"def":276,"spa":140,"spd":156,"spe":159},"moves":["earthquake","knockoff","iceshard","rapidspin"],"baseAbility":"sturdy","item":"assaultvest","pokeball":"pokeball"}]},"rqid":1}
+<< >battle-gen7ou-539669928
+
+|player|p2|hmmmmmwow|1
+|gametype|singles
+|gen|7
+|tier|[Gen 7] OU
+|rated
+|seed|
+|clearpoke
+|poke|p1|Pheromosa|item
+|poke|p1|Scizor, F|item
+|poke|p1|Pinsir, M|item
+|poke|p1|Vikavolt, M|item
+|poke|p1|Araquanid, M|item
+|poke|p1|Scolipede, M|item
+|poke|p2|Charizard, M|item
+|poke|p2|Gyarados, M|item
+|poke|p2|Skarmory, M|item
+|poke|p2|Pheromosa|item
+|poke|p2|Greninja, M|item
+|poke|p2|Donphan, M|item
+|rule|Baton Pass Clause: Limit one Baton Passer, can't pass Spe and other stats simultaneously
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|teampreview
+trigger: event message:search:update failed with TypeError: Cannot read property 'style' of undefined
+
+<< >overused
+|c:|1488186425| beast boost|idk i think
+<< >overused
+|c:|1488186428| Alvar ͜..|I think its a good option for SR setting in tr
+<< >overused
+|J| Adalind
+<< >overused
+|J| gzy
+<< >overused
+|c:|1488186429| beast boost|if you're going to use it
+>> battle-gen7ou-539669928|/team 321456|1
+<< >battle-gen7ou-539669928
+
+|-message|Gerardon4x forfeited.
+<< >battle-gen7ou-539669928
+|askreg|hmmmmmwow
+<< >battle-gen7ou-539669928
+
+|
+|win|hmmmmmwow
+<< >battle-gen7ou-539669928
+||Ladder updating...
+<< |updatesearch|{"searching":[],"games":null}
+<< >battle-gen7ou-539669928
+
+|player|p1
+<< >battle-gen7ou-539669928
+
+|player|p2
+<< >battle-gen7ou-539669928
+
+|l|Gerardon4x
+<< >battle-gen7ou-539669928
+
+|raw|Gerardon4x's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|hmmmmmwow's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)
+<< >overused
+|J| fknAzZnDean
+<< >overused
+|J| yandaud
+<< >overused
+|c:|1488186438| beast boost|you're better off with rocks+boom+trick room
+<< >overused
+|L| coolfreeze
+<< >overused
+|c:|1488186446| beast boost|but zong does that and checks meta etc
+<< >overused
+|L| xlrrock
+<< >overused
+|L| gzy
+<< >overused
+|N| lets show them!|adalind
+<< >overused
+|J| price111
+<< >overused
+|c:|1488186464| beast boost|or at least trs on it
+<< >overused
+|L| akitos
+<< >overused
+|c:|1488186468| Alvar ͜..|that is true
+<< >overused
+|c:|1488186468| beast boost|then booms
+<< >overused
+|L| lordkaren
+<< >overused
+|N| lets show them!|letsshowthem
+<< >overused
+|c:|1488186476| Alvar ͜..|does the same and has better defensive utility
+<< >overused
+|J| Loloartsi
+<< >overused
+|L| fudzy
+<< >overused
+|J| Athosus
+<< >overused
+|J|+False偽
+<< >overused
+|J|%SteelEdges
+>> |/leave battle-gen7ou-539669928
+<< >battle-gen7ou-539669928
+|deinit
+trigger: event message:search:update failed with TypeError: Cannot read property 'style' of undefined
+
+<< >overused
+|c:|1488186513| Garbagery|Trick room megabro?
+<< >overused
+|J| jayjay1238
+<< >overused
+|L| TeamHaymaker
+<< >overused
+|N| jayjay1238|jayjay1238
+<< >overused
+|L| Loloartsi
+<< >overused
+|J| sdqgfbst
+<< >overused
+|c:|1488186523| beast boost|uh i've seen trick room life orb regular
+<< >overused
+|c:|1488186526| beast boost|but never mega
+<< >overused
+|J| cesmoll
+<< >overused
+|c:|1488186535| beast boost|once again i think it'd be too passive
+<< >overused
+|L| chubbygibby
+<< >overused
+|L| Pawnf
+<< >overused
+|c:|1488186547| Young Snackz|best defensive partners???
+<< >overused
+|c:|1488186554| beast boost|for what?
+<< >overused
+|L| tomisntgay
+<< >overused
+|c:|1488186563| Garbagery|Shedinja and mega dabby best defense
+<< >overused
+|c:|1488186565| Zezima ★|scarf or band rachi what shall i use =o
+<< >overused
+|J| Robin Tekashi
+<< >overused
+|L| AbrarWasee
+<< >overused
+|J| Wretched Waltz
+<< >overused
+|J| FlashDan
+<< >overused
+|c:|1488186584| Young Snackz|for OU
+<< >overused
+|L| Yay61
+<< >overused
+|c:|1488186593| Zezima ★|no for PU
+<< >overused
+|L| danksnaps
+<< >overused
+|c:|1488186611| Garbagery|I shit u knot mega dab and shedinja best defense
+<< >overused
+|J| dravenak1
+<< >overused
+|L| talonspam
+<< >overused
+|c:|1488186619| Young Snackz|ok use rockyhelmet follow me wish protect and sub
+<< >overused
+|L| Ferasweep
+<< >overused
+|L| Best pokemon names
+<< >overused
+|tournament|battleend|RedzoneX|Rawr_revo|loss|0,1|success|battle-ou-539669349
+|tournament|end|{"results":[["Rawr_revo"]],"format":"ou","generator":"Single Elimination","bracketData":{"type":"tree","rootNode":{"children":[{"children":[{"children":[{"children":[{"children":[{"children":[],"team":"coolboy1738"},{"children":[],"team":"Alvar ͜.."}],"state":"finished","team":"Alvar ͜..","result":"loss","score":[0,1]},{"children":[{"children":[],"team":"Ryoma Nagare"},{"children":[],"team":"LewdestfoxZoroark"}],"state":"finished","team":"Ryoma Nagare","result":"win","score":[1,0]}],"state":"finished","team":"Ryoma Nagare","result":"loss","score":[0,1]},{"children":[{"children":[{"children":[],"team":"DreamsNeverDie"},{"children":[],"team":"Iroll2"}],"state":"finished","team":"DreamsNeverDie","result":"win","score":[1,0]},{"children":[{"children":[],"team":"DcX☆StoOner☆Elite"},{"children":[],"team":"Attract uses roids"}],"state":"finished","team":"DcX☆StoOner☆Elite","result":"win","score":[5,2]}],"state":"finished","team":"DcX☆StoOner☆Elite","result":"loss","score":[0,2]}],"state":"finished","team":"DcX☆StoOner☆Elite","result":"loss","score":[1,3]},{"children":[{"children":[{"children":[{"children":[],"team":"Scrappie"},{"children":[],"team":"Poluke"}],"state":"finished","team":"Scrappie","result":"win","score":[1,0]},{"children":[{"children":[],"team":"Shrekcore"},{"children":[],"team":"lordwimsyyoutuber"}],"state":"finished","team":"lordwimsyyoutuber","result":"loss","score":[0,1]}],"state":"finished","team":"Scrappie","result":"win","score":[1,0]},{"children":[{"children":[{"children":[],"team":"MistressHell"},{"children":[],"team":"l les anon l"}],"state":"finished","team":"MistressHell","result":"win","score":[2,0]},{"children":[{"children":[],"team":"RedzoneX"},{"children":[],"team":"DREFY"}],"state":"finished","team":"RedzoneX","result":"win","score":[5,0]}],"state":"finished","team":"RedzoneX","result":"loss","score":[2,5]}],"state":"finished","team":"RedzoneX","result":"loss","score":[0,2]}],"state":"finished","team":"RedzoneX","result":"loss","score":[0,3]},{"children":[{"children":[{"children":[{"children":[{"children":[],"team":"richardho92"},{"children":[],"team":"jesus used surf"}],"state":"finished","team":"richardho92","result":"win","score":[1,0]},{"children":[{"children":[],"team":"10th Squad Taichou"},{"children":[],"team":"The Hallows"}],"state":"finished","team":"The Hallows","result":"loss","score":[4,4]}],"state":"finished","team":"The Hallows","result":"loss","score":[0,1]},{"children":[{"children":[],"team":"Dark-type Zangoose"},{"children":[],"team":"enz300"}],"state":"finished","team":"Dark-type Zangoose","result":"win","score":[4,0]}],"state":"finished","team":"The Hallows","result":"win","score":[1,0]},{"children":[{"children":[{"children":[],"team":"Amyler"},{"children":[],"team":"Motzand"}],"state":"finished","team":"Motzand","result":"loss","score":[0,1]},{"children":[{"children":[],"team":"Rawr_revo"},{"children":[],"team":"Omg lollol"}],"state":"finished","team":"Rawr_revo","result":"win","score":[4,0]}],"state":"finished","team":"Rawr_revo","result":"loss","score":[3,3]}],"state":"finished","team":"Rawr_revo","result":"loss","score":[1,3]}],"state":"finished","team":"Rawr_revo","result":"loss","score":[0,1]}}}
+<< >overused
+|html|<div class="infobox"><center><div style='max-height: 222px; overflow-y: auto'><table style='border: 1px solid #6688aa; border-radius: 10px'><tr><th style='border-bottom: 1px solid #94b8b8; padding: 5px'>#</th><th style='border-bottom: 1px solid #94b8b8; padding: 5px'>Name</th><th style='border-bottom: 1px solid #94b8b8; padding: 5px'>Score</th><th style='border-bottom: 1px solid #94b8b8; padding: 5px'>Battles Won</th><th style='border-bottom: 1px solid #94b8b8; padding: 5px'>Tours Played</th><th style='border-bottom: 1px solid #94b8b8; padding: 5px'>1st Place</th><th style='border-bottom: 1px solid #94b8b8; padding: 5px'>2nd Place</th><th style='border-bottom: 1px solid #94b8b8; padding: 5px'>4th Place</th></tr><tr style='background-color: rgba(242, 247, 250, 0.7); color: black'><td>1</td><td>wally the bully</td><td align='right'>155.9</td><td align='right'>2.53<font size=1> / tour</font></td><td align='right'>30</td><td align='right'>23%</td><td align='right'>0%</td><td align='right'>10%</td></tr><tr style='background-color: rgba(203, 203, 203, 0.7); color: black'><td>2</td><td>MegaStarUniverse</td><td align='right'>146.4</td><td align='right'>2.38<font size=1> / tour</font></td><td align='right'>32</td><td align='right'>9%</td><td align='right'>6%</td><td align='right'>16%</td></tr><tr style='background-color: rgba(255, 200, 80, 0.7); color: black'><td>3</td><td>The Hallows</td><td align='right'>119.8</td><td align='right'>1.82<font size=1> / tour</font></td><td align='right'>28</td><td align='right'>7%</td><td align='right'>18%</td><td align='right'>11%</td></tr><tr style='background-color: rgba(203, 203, 203, 0.7); color: black'><td>4</td><td>Nythi</td><td align='right'>118.5</td><td align='right'>1.78<font size=1> / tour</font></td><td align='right'>32</td><td align='right'>9%</td><td align='right'>6%</td><td align='right'>9%</td></tr><tr style='background-color: rgba(242, 247, 250, 0.7); color: black'><td>5</td><td>Divixel</td><td align='right'>109.3</td><td align='right'>2.27<font size=1> / tour</font></td><td align='right'>15</td><td align='right'>13%</td><td align='right'>20%</td><td align='right'>13%</td></tr><tr style='background-color: rgba(203, 203, 203, 0.7); color: black'><td>6</td><td>False偽</td><td align='right'>108.5</td><td align='right'>2.12<font size=1> / tour</font></td><td align='right'>17</td><td align='right'>24%</td><td align='right'>0%</td><td align='right'>12%</td></tr><tr style='background-color: rgba(242, 247, 250, 0.7); color: black'><td>7</td><td>I like pink mons</td><td align='right'>103.2</td><td align='right'>3.00<font size=1> / tour</font></td><td align='right'>8</td><td align='right'>50%</td><td align='right'>0%</td><td align='right'>0%</td></tr><tr style='background-color: rgba(203, 203, 203, 0.7); color: black'><td>8</td><td>litwick</td><td align='right'>95.0</td><td align='right'>2.55<font size=1> / tour</font></td><td align='right'>11</td><td align='right'>18%</td><td align='right'>9%</td><td align='right'>0%</td></tr><tr style='background-color: rgba(242, 247, 250, 0.7); color: black'><td>9</td><td>doubloon</td><td align='right'>94.8</td><td align='right'>1.75<font size=1> / tour</font></td><td align='right'>24</td><td align='right'>4%</td><td align='right'>4%</td><td align='right'>8%</td></tr><tr style='background-color: rgba(203, 203, 203, 0.7); color: black'><td>10</td><td>Draco Locked</td><td align='right'>93.3</td><td align='right'>2.88<font size=1> / tour</font></td><td align='right'>8</td><td align='right'>25%</td><td align='right'>13%</td><td align='right'>13%</td></tr><tr style='background-color: rgba(242, 247, 250, 0.7); color: black'><td>11</td><td>sorry</td><td align='right'>92.5</td><td align='right'>3.33<font size=1> / tour</font></td><td align='right'>6</td><td align='right'>50%</td><td align='right'>0%</td><td align='right'>0%</td></tr><tr style='background-color: rgba(203, 203, 203, 0.7); color: black'><td>12</td><td>3DHD Steven</td><td align='right'>92.5</td><td align='right'>3.33<font size=1> / tour</font></td><td align='right'>6</td><td align='right'>33%</td><td align='right'>17%</td><td align='right'>17%</td></tr><tr style='background-color: rgba(242, 247, 250, 0.7); color: black'><td>13</td><td>Gyslexic Duy</td><td align='right'>89.5</td><td align='right'>2.14<font size=1> / tour</font></td><td align='right'>14</td><td align='right'>7%</td><td align='right'>0%</td><td align='right'>29%</td></tr><tr style='background-color: rgba(203, 203, 203, 0.7); color: black'><td>14</td><td>Paycard</td><td align='right'>87.7</td><td align='right'>2.75<font size=1> / tour</font></td><td align='right'>8</td><td align='right'>13%</td><td align='right'>25%</td><td align='right'>13%</td></tr><tr style='background-color: rgba(242, 247, 250, 0.7); color: black'><td>15</td><td>A Girl like Me</td><td align='right'>87.6</td><td align='right'>2.08<font size=1> / tour</font></td><td align='right'>12</td><td align='right'>17%</td><td align='right'>8%</td><td align='right'>17%</td></tr><tr style='background-color: rgba(203, 203, 203, 0.7); color: black'><td>16</td><td>5th</td><td align='right'>85.9</td><td align='right'>1.79<font size=1> / tour</font></td><td align='right'>19</td><td align='right'>0%</td><td align='right'>5%</td><td align='right'>21%</td></tr><tr style='background-color: rgba(242, 247, 250, 0.7); color: black'><td>17</td><td>Call Me Gay</td><td align='right'>85.4</td><td align='right'>2.75<font size=1> / tour</font></td><td align='right'>8</td><td align='right'>25%</td><td align='right'>0%</td><td align='right'>13%</td></tr><tr style='background-color: rgba(203, 203, 203, 0.7); color: black'><td>18</td><td>BC ird</td><td align='right'>84.2</td><td align='right'>3.40<font size=1> / tour</font></td><td align='right'>5</td><td align='right'>40%</td><td align='right'>20%</td><td align='right'>0%</td></tr><tr style='background-color: rgba(242, 247, 250, 0.7); color: black'><td>19</td><td>FMG</td><td align='right'>84.0</td><td align='right'>2.44<font size=1> / tour</font></td><td align='right'>9</td><td align='right'>11%</td><td align='right'>11%</td><td align='right'>33%</td></tr><tr style='background-color: rgba(203, 203, 203, 0.7); color: black'><td>20</td><td>DarkDreamrLuna</td><td align='right'>83.3</td><td align='right'>1.78<font size=1> / tour</font></td><td align='right'>18</td><td align='right'>6%</td><td align='right'>6%</td><td align='right'>6%</td></tr><tr style='background-color: rgba(242, 247, 250, 0.7); color: black'><td>21</td><td>Jet</td><td align='right'>78.7</td><td align='right'>1.73<font size=1> / tour</font></td><td align='right'>15</td><td align='right'>7%</td><td align='right'>13%</td><td align='right'>7%</td></tr><tr style='background-color: rgba(203, 203, 203, 0.7); color: black'><td>22</td><td>DeadlyRabbit</td><td align='right'>77.7</td><td align='right'>1.60<font size=1> / tour</font></td><td align='right'>20</td><td align='right'>0%</td><td align='right'>10%</td><td align='right'>5%</td></tr><tr style='background-color: rgba(242, 247, 250, 0.7); color: black'><td>23</td><td>Its ok to burn</td><td align='right'>77.6</td><td align='right'>1.71<font size=1> / tour</font></td><td align='right'>14</td><td align='right'>0%</td><td align='right'>29%</td><td align='right'>7%</td></tr><tr style='background-color: rgba(203, 203, 203, 0.7); color: black'><td>24</td><td>MaskedMan</td><td align='right'>77.4</td><td align='right'>1.29<font size=1> / tour</font></td><td align='right'>31</td><td align='right'>0%</td><td align='right'>3%</td><td align='right'>10%</td></tr><tr style='background-color: rgba(242, 247, 250, 0.7); color: black'><td>25</td><td>LeCadreur</td><td align='right'>75.3</td><td align='right'>2.38<font size=1> / tour</font></td><td align='right'>8</td><td align='right'>13%</td><td align='right'>0%</td><td align='right'>50%</td></tr><tr style='background-color: rgba(255, 200, 80, 0.7); color: black'><td>26</td><td>Attract uses roids</td><td align='right'>74.6</td><td align='right'>1.28<font size=1> / tour</font></td><td align='right'>25</td><td align='right'>4%</td><td align='right'>4%</td><td align='right'>12%</td></tr><tr style='background-color: rgba(242, 247, 250, 0.7); color: black'><td>27</td><td>puta bulu</td><td align='right'>69.8</td><td align='right'>4.00<font size=1> / tour</font></td><td align='right'>3</td><td align='right'>67%</td><td align='right'>0%</td><td align='right'>0%</td></tr><tr style='background-color: rgba(203, 203, 203, 0.7); color: black'><td>28</td><td>sippinteainyohood</td><td align='right'>68.8</td><td align='right'>5.00<font size=1> / tour</font></td><td align='right'>2</td><td align='right'>100%</td><td align='right'>0%</td><td align='right'>0%</td></tr><tr style='background-color: rgba(242, 247, 250, 0.7); color: black'><td>29</td><td>HugolounaPSL</td><td align='right'>68.2</td><td align='right'>3.67<font size=1> / tour</font></td><td align='right'>3</td><td align='right'>67%</td><td align='right'>0%</td><td align='right'>33%</td></tr><tr style='background-color: rgba(203, 203, 203, 0.7); color: black'><td>30</td><td>serginho1</td><td align='right'>66.9</td><td align='right'>1.53<font size=1> / tour</font></td><td align='right'>15</td><td align='right'>13%</td><td align='right'>0%</td><td align='right'>0%</td></tr><tr style='background-color: rgba(242, 247, 250, 0.7); color: black'><td>31</td><td>stay w0ke</td><td align='right'>66.5</td><td align='right'>2.00<font size=1> / tour</font></td><td align='right'>11</td><td align='right'>0%</td><td align='right'>9%</td><td align='right'>9%</td></tr><tr style='background-color: rgba(203, 203, 203, 0.7); color: black'><td>32</td><td>ecrona</td><td align='right'>66.5</td><td align='right'>1.19<font size=1> / tour</font></td><td align='right'>26</td><td align='right'>4%</td><td align='right'>0%</td><td align='right'>8%</td></tr><tr style='background-color: rgba(242, 247, 250, 0.7); color: black'><td>33</td><td>Swordslinging</td><td align='right'>66.3</td><td align='right'>1.73<font size=1> / tour</font></td><td align='right'>11</td><td align='right'>0%</td><td align='right'>27%</td><td align='right'>9%</td></tr><tr style='background-color: rgba(203, 203, 203, 0.7); color: black'><td>34</td><td>explodingdaisies</td><td align='right'>64.9</td><td align='right'>1.53<font size=1> / tour</font></td><td align='right'>15</td><td align='right'>7%</td><td align='right'>7%</td><td align='right'>0%</td></tr><tr style='background-color: rgba(242, 247, 250, 0.7); color: black'><td>35</td><td>ADF Test</td><td align='right'>62.6</td><td align='right'>1.67<font size=1> / tour</font></td><td align='right'>12</td><td align='right'>8%</td><td align='right'>8%</td><td align='right'>0%</td></tr><tr style='background-color: rgba(203, 203, 203, 0.7); color: black'><td>36</td><td>Mistaken~</td><td align='right'>62.5</td><td align='right'>2.00<font size=1> / tour</font></td><td align='right'>8</td><td align='right'>25%</td><td align='right'>0%</td><td align='right'>0%</td></tr><tr style='background-color: rgba(242, 247, 250, 0.7); color: black'><td>37</td><td>matthewc20090</td><td align='right'>61.8</td><td align='right'>1.46<font size=1> / tour</font></td><td align='right'>13</td><td align='right'>15%</td><td align='right'>0%</td><td align='right'>8%</td></tr><tr style='background-color: rgba(203, 203, 203, 0.7); color: black'><td>38</td><td>dia_SRE</td><td align='right'>60.6</td><td align='right'>2.29<font size=1> / tour</font></td><td align='right'>7</td><td align='right'>0%</td><td align='right'>14%</td><td align='right'>29%</td></tr><tr style='background-color: rgba(242, 247, 250, 0.7); color: black'><td>39</td><td>Bjork</td><td align='right'>60.0</td><td align='right'>3.33<font size=1> / tour</font></td><td align='right'>3</td><td align='right'>67%</td><td align='right'>0%</td><td align='right'>0%</td></tr><tr style='background-color: rgba(203, 203, 203, 0.7); color: black'><td>40</td><td>clubtropper</td><td align='right'>59.9</td><td align='right'>2.11<font size=1> / tour</font></td><td align='right'>9</td><td align='right'>0%</td><td align='right'>0%</td><td align='right'>22%</td></tr><tr style='background-color: rgba(242, 247, 250, 0.7); color: black'><td>41</td><td>reymaki</td><td align='right'>59.5</td><td align='right'>2.60<font size=1> / tour</font></td><td align='right'>5</td><td align='right'>20%</td><td align='right'>0%</td><td align='right'>40%</td></tr><tr style='background-color: rgba(203, 203, 203, 0.7); color: black'><td>42</td><td>HxThG3</td><td align='right'>59.4</td><td align='right'>2.33<font size=1> / tour</font></td><td align='right'>6</td><td align='right'>17%</td><td align='right'>17%</td><td align='right'>0%</td></tr><tr style='background-color: rgba(255, 200, 80, 0.7); color: black'><td>43</td><td>10th Squad Taichou</td><td align='right'>59.4</td><td align='right'>2.33<font size=1> / tour</font></td><td align='right'>6</td><td align='right'>17%</td><td align='right'>0%</td><td align='right'>33%</td></tr><tr style='background-color: rgba(203, 203, 203, 0.7); color: black'><td>44</td><td>skydragon48</td><td align='right'>58.8</td><td align='right'>1.64<font size=1> / tour</font></td><td align='right'>11</td><td align='right'>9%</td><td align='right'>0%</td><td align='right'>18%</td></tr><tr style='background-color: rgba(242, 247, 250, 0.7); color: black'><td>45</td><td>Freddy Grus</td><td align='right'>57.0</td><td align='right'>3.00<font size=1> / tour</font></td><td align='right'>4</td><td align='right'>25%</td><td align='right'>0%</td><td align='right'>25%</td></tr><tr style='background-color: rgba(203, 203, 203, 0.7); color: black'><td>46</td><td>Reitein</td><td align='right'>57.0</td><td align='right'>3.00<font size=1> / tour</font></td><td align='right'>4</td><td align='right'>25%</td><td align='right'>0%</td><td align='right'>25%</td></tr><tr style='background-color: rgba(242, 247, 250, 0.7); color: black'><td>47</td><td>hiye</td><td align='right'>55.8</td><td align='right'>4.50<font size=1> / tour</font></td><td align='right'>2</td><td align='right'>0%</td><td align='right'>100%</td><td align='right'>0%</td></tr><tr style='background-color: rgba(203, 203, 203, 0.7); color: black'><td>48</td><td>Kaolah</td><td align='right'>55.5</td><td align='right'>1.75<font size=1> / tour</font></td><td align='right'>8</td><td align='right'>13%</td><td align='right'>13%</td><td align='right'>13%</td></tr><tr style='background-color: rgba(242, 247, 250, 0.7); color: black'><td>49</td><td>Mindnight(‽)</td><td align='right'>55.0</td><td align='right'>2.00<font size=1> / tour</font></td><td align='right'>8</td><td align='right'>13%</td><td align='right'>0%</td><td align='right'>0%</td></tr><tr style='background-color: rgba(203, 203, 203, 0.7); color: black'><td>50</td><td>JKongh龘</td><td align='right'>54.2</td><td align='right'>2.00<font size=1> / tour</font></td><td align='right'>6</td><td align='right'>33%</td><td align='right'>0%</td><td align='right'>0%</td></tr></table></div></center><div style="float:right;color:#888;font-size:8pt">[Scrappie]</div><div style="clear:both"></div></div>
+<< >overused
+|c:|1488186633|@Baton Mash (|ASS
+<< >overused
+|c:|1488186633|+l les anon l|gz
+<< >overused
+|J| TrapCard
+<< >overused
+|c:|1488186636| Planktonz|congrats Rawr
+<< >overused
+|c:|1488186639| rileykiller5|BOO you suck
+<< >overused
+|c:|1488186646| rileykiller5|jk ily
+<< >overused
+|J| Best pokemon names
+<< >overused
+|J| dean5745
+<< >overused
+|c:|1488186649|@Baton Mash (|gz
+<< >overused
+|c:|1488186649| RedzoneX|that was the dumbest tour run
+<< >overused
+|c:|1488186650|+Cynde ♥|redzone is
+<< >overused
+|c:|1488186650|+Cynde ♥|bad
+<< >overused
+|c:|1488186651| RedzoneX|by far
+<< >overused
+|c:|1488186652| Its ok to burn|didn't EQ
+<< >overused
+|c:|1488186652| beast boost|i mean solid blanket checks are like lando, tangrowth, metagross, heatran, magearna, ferrothorn, celesteela, fini, rotom-w Young Snackz
+<< >overused
+|J|@qtrx
+<< >overused
+|c:|1488186652| RedzoneX|gz
+<< >overused
+|c:|1488186653| Its ok to burn|no balls
+<< >overused
+|J| LajungleTropicale
+<< >overused
+|J| Qiuescent
+<< >overused
+|c:|1488186658| Its ok to burn|gz
+<< >overused
+|L| cesmoll
+<< >overused
+|L|#Orda-Y
+<< >overused
+|J| Loloartsi
+<< >overused
+|c:|1488186665| beast boost|it really depends on what your team needs, Young Snackz
+<< >overused
+|c:|1488186669| 5th|dpp tour lgi
+<< >overused
+|L| testmon1
+<< >overused
+|J| MerlinMs
+<< >overused
+|L| Vubon
+<< >overused
+|c:|1488186682| beast boost|asking for defensive partners is a bit nonsensical, it requires context
+<< >overused
+|L| joeypow
+<< >overused
+|L| braiatan
+<< >overused
+|c:|1488186695| Young Snackz|should i build around my defence? i havnt played properly since B/W
+<< >overused
+|L| MerlinMs
+<< >overused
+|c:|1488186701| RedzoneX|i just want to point out
+<< >overused
+|L| auyan
+<< >overused
+|c:|1488186707| Planktonz|right now either offense or stall is your best bet i think
+<< >overused
+|J| FckingH8ThisGame
+<< >overused
+|J| DpkBulb
+<< >overused
+|J| TheSlim
+<< >overused
+|c:|1488186713| RedzoneX|in round 1 of that tour i faced subpunch gengar
+<< >overused
+|c:|1488186716|@Baton Mash (|yea
+<< >overused
+|c:|1488186717| lolagain|i hate stall...... why so many People Play stall at the Moment? :(
+<< >overused
+|c:|1488186719|@Baton Mash (|and it did
+<< >overused
+|c:|1488186721|@Baton Mash (|70%
+<< >overused
+|c:|1488186724|@Baton Mash (|to ur heatran
+<< >overused
+|c:|1488186726| RedzoneX|yep
+<< >overused
+|L| TheRealStevenKing
+<< >overused
+|c:|1488186727| beast boost|bodied
+<< >overused
+|L| TheSlim
+<< >overused
+|J| Mickthegreat
+<< >overused
+|c:|1488186728| Its ok to burn|lololol
+<< >overused
+|c:|1488186729| beast boost|l
+<< >overused
+|N| jikan inai|playerw17
+<< >overused
+|c:|1488186730| beast boost|l
+<< >overused
+|c:|1488186731| beast boost|L
+<< >overused
+|J| Trabat2002
+<< >overused
+|N| Aishiteiru|jikaninai
+<< >overused
+|c:|1488186745| Planktonz|was it invested gar?
+<< >overused
+|c:|1488186748| RedzoneX|max atk
+<< >overused
+|c:|1488186751| Planktonz|wow.
+<< >overused
+|J| AbrarWasee
+<< >overused
+|c:|1488186757| Planktonz|sub punch and what else lmao
+<< >overused
+|c:|1488186764| RedzoneX|sub punch hypnosis shadow claw
+<< >overused
+|c:|1488186769| beast boost|the tech
+<< >overused
+|c:|1488186770| Planktonz|lit
+<< >overused
+|c:|1488186772| Its ok to burn|glorious set
+<< >overused
+|c:|1488186774| Zezima ★|hey baton can you do the command see what item usage rachi has the most of
+<< >overused
+|c:|1488186782| beast boost|it's lefties
+<< >overused
+|c:|1488186783| Its ok to burn|lefties
+<< >overused
+|c:|1488186786| beast boost|then probably scarf
+<< >overused
+|J| Smiley94
+<< >overused
+|J| ClamPe
+<< >overused
+|c:|1488186793| RedzoneX|Leftovers 65.353% | Choice Scarf 24.574% | Normalium Z 7.431% | Other 2.642%
+<< >overused
+|J| 2182511420b
+<< >overused
+|c:|1488186793| beast boost|then like normalium z
+<< >overused
+|c:|1488186795|@Baton Mash (|.usage1695 jirachi items ou
+<< >overused
+|c:|1488186795|*TIBot|Leftovers 65.353% | Choice Scarf 24.574% | Normalium Z 7.431% | Other 2.642%
+<< >overused
+|c:|1488186797| beast boost|mhm
+<< >overused
+|L| zxcvbnmqa
+<< >overused
+|J| mattthehero
+<< >overused
+|c:|1488186806| beast boost|i am tibot incarnate
+<< >overused
+|J| zxcvbnmqa
+<< >overused
+|L| MiniMan247
+<< >overused
+|c:|1488186819| Planktonz|people still like normalium?
+<< >overused
+|L| 2182511420b
+<< >overused
+|c:|1488186827| beast boost|idk it's an odd set
+<< >overused
+|J| lg131
+<< >overused
+|L| Loloartsi
+<< >overused
+|c:|1488186829| Blazelatiass|what command is that?
+<< >overused
+|c:|1488186832| Blazelatiass|for usage?
+<< >overused
+|L| shewantstheDDD
+<< >overused
+|J| Playerbiaatch
+<< >overused
+|J| snailyalater
+<< >overused
+|c:|1488186847| beast boost|not fucked with it after release so i'm not gonna comment on its viability
+<< >overused
+|L| Garbagery
+<< >overused
+|J| Yay61
+<< >overused
+|c:|1488186864| beast boost|it's .usage1695 pokemon item tier beast boost
+<< >overused
+|c:|1488186866| beast boost|Blazelatiass*
+<< >overused
+|J| NormallyCrazy
+<< >overused
+|c:|1488186872| beast boost|but only + or above can broadcast it
+<< >overused
+|L| Aku Mau Ngetroll
+<< >overused
+|L|@Punchshroom
+<< >overused
+|c:|1488186888| Blazelatiass|ah ok
+<< >overused
+|L| Phoenix Christ
+<< >overused
+|L| DeathbyPyukumuku
+<< >overused
+|J| Goku91919
+<< >overused
+|J| DeathbyPyukumuku
+<< >overused
+|L| basicallysteve
+<< >overused
+|c:|1488186908| Blazelatiass|.usage1695 pokemon item tier beast boost
+<< >overused
+|L| Yay61
+<< >overused
+|c:|1488186912| Blazelatiass|oops
+<< >overused
+|L| zxcvbnmqa
+<< >overused
+|c:|1488186915| Blazelatiass|.usage1695 pokemon item tier beast boost
+<< >overused
+|J| Phoenix Christ
+<< >overused
+|c:|1488186924| Blazelatiass|omg my finger keeps slipping
+<< >overused
+|c:|1488186926| Planktonz|beast boost ain't an item xD
+<< >overused
+|J| IcySPicyRice
+<< >overused
+|c:|1488186929| Blazelatiass|stupid keyboard
+<< >overused
+|L| sdqgfbst
+<< >overused
+|c:|1488186941| beast boost|my dude it isn't beast boost after that lol
+<< >overused
+|J| Cpt funky fresh
+<< >overused
+|J| Pawnf
+<< >overused
+|L| Smiley94
+<< >overused
+|L|lajimengxin
+<< >overused
+|J| This Ain't Sparta
+<< >overused
+|J| SpaceWorm
+<< >overused
+|L| FlashDan
+<< >overused
+|c:|1488186957| Blazelatiass|//usage1695 Scolipede item tier
+<< >overused
+|L| Flounderbasket
+<< >overused
+|J| Iphone312
+<< >overused
+|J| Perez-Reverte
+<< >overused
+|c:|1488186969| beast boost|gimme a sec i'm fetching the usage stats for you
+<< >overused
+|c:|1488186971| Blazelatiass|.usage1695 Scolipede item tier
+<< >overused
+|J| i have no id
+<< >overused
+|J| Bravesword Twelve
+<< >overused
+|c:|1488186976| RedzoneX|just pm tibot
+<< >overused
+|L| Cpt funky fresh
+<< >overused
+|L| MooneBoyIrish
+<< >overused
+|J| gen7Poison
+<< >overused
+|c:|1488186980| Blazelatiass|oh its a bot
+<< >overused
+|c:|1488186982| Its ok to burn|are u having a stroke
+<< >overused
+|c:|1488186982| Blazelatiass|not a command
+<< >overused
+|L|ihavenoid
+<< >overused
+|c:|1488186995| Blazelatiass|LOL im sleep deprived its 4AM here
+<< >overused
+|N| Bravesword Twelve|braveswordtwelve
+<< >overused
+|c:|1488186996| beast boost|http://www.smogon.com/stats/2017-01/
+<< >overused
+|c:|1488186998| beast boost|here Blazelatiass
+<< >overused
+|c:|1488187003| Blazelatiass|ah nice
+<< >overused
+|J| he has no id
+<< >overused
+|c:|1488187005| Blazelatiass|ty
+<< >overused
+|c:|1488187005| beast boost|you can find all the stuff there
+<< >overused
+|c:|1488187006| Blazelatiass|babe
+<< >overused
+|L| Zezima ★
+<< >overused
+|c:|1488187012| beast boost|navigate your way around it
+<< >overused
+|c:|1488187013| beast boost|np
+<< >overused
+|J|+soviet
+<< >overused
+|J| SMessell
+<< >overused
+|L| sexy gamer gorilla
+<< >overused
+|J| Mighty Rising Ace
+<< >overused
+|J| shagga son of dolf
+<< >overused
+|L| Zgdu
+<< >overused
+|c:|1488187036|@Baton Mash (|beast boost
+<< >overused
+|J| Lewy
+<< >overused
+|c:|1488187041|@Baton Mash (|should i do english
+<< >overused
+|c:|1488187043|@Baton Mash (|or Psychology
+<< >overused
+|L|shaggasonofdolf
+<< >overused
+|J| Melharくコ
+<< >overused
+|L| maxgamer 1
+<< >overused
+|J| Cpt funky fresh
+<< >overused
+|c:|1488187055|%SteelEdges|It depends on your interests
+<< >overused
+|J| djahax
+<< >overused
+|c:|1488187059| RedzoneX|as what, a major?
+<< >overused
+|J| Treb clef =ass
+<< >overused
+|J| Buyer
+<< >overused
+|c:|1488187063| RedzoneX|or just picking classes?
+<< >overused
+|J| Bolegunnar
+<< >overused
+|c:|1488187066|@Baton Mash (|i'm talking about homework
+<< >overused
+|L|+l les anon l
+<< >overused
+|c:|1488187071| beast boost|psychology
+<< >overused
+|c:|1488187073|%SteelEdges|!pick english, psych
+|html|<div class="infobox"><em>We randomly picked:</em> english</div>
+<< >overused
+|c:|1488187076|@Baton Mash (|should've probably added that context
+<< >overused
+|L| SpaceWorm
+<< >overused
+|c:|1488187077| Its ok to burn|do english first
+<< >overused
+|L| dravenak1
+<< >overused
+|c:|1488187083| Blazelatiass|do english
+<< >overused
+|J| darshanmahima
+<< >overused
+|c:|1488187088|@Baton Mash (|english it is
+<< >overused
+|c:|1488187091| beast boost|what part of english is it
+<< >overused
+|L| dugtrio acceptance
+<< >overused
+|c:|1488187097|@Baton Mash (|just answering questions about
+<< >overused
+|L| coolboy1738
+<< >overused
+|J|+l les anon l
+<< >overused
+|c:|1488187098|@Baton Mash (|tkam
+<< >overused
+|L| dean5745
+<< >overused
+|c:|1488187104| Blazelatiass|do english
+<< >overused
+|c:|1488187107|@Baton Mash (|(to kill a mockingbird)
+<< >overused
+|c:|1488187108| beast boost|ah
+<< >overused
+|c:|1488187110| beast boost|yeah i kno
+<< >overused
+|c:|1488187111| beast boost|w
+<< >overused
+|L| SMessell
+<< >overused
+|c:|1488187113| beast boost|waht tkam is
+<< >overused
+|c:|1488187114| Its ok to burn|thats a good book
+<< >overused
+|c:|1488187116| Its ok to burn|do english
+<< >overused
+|c:|1488187117| beast boost|good book, do that
+<< >overused
+|L| Treb clef =ass
+<< >overused
+|c:|1488187121| beast boost|incredibly good book
+<< >overused
+|c:|1488187122|@Baton Mash (|i've yet to start reading it lol
+<< >overused
+|L| Grayser
+<< >overused
+|c:|1488187125| Planktonz|baton mash, ngl not my fave book
+<< >overused
+|c:|1488187130| FreedGardener|Atticus Finch ftw
+<< >overused
+|c:|1488187130| beast boost|read it broski
+<< >overused
+|c:|1488187132| Blazelatiass|thats why u use sparknotes
+<< >overused
+|J| Shousuke234
+<< >overused
+|c:|1488187136|@Baton Mash (|I'd prefer truman capote's in cold blood
+<< >overused
+|c:|1488187137| beast boost|it isn't a chore, i can promise you that
+<< >overused
+|J| noob_deek
+<< >overused
+|c:|1488187142|@Baton Mash (|Blazelatiass trueee
+<< >overused
+|J| PrinceIbrahim99
+<< >overused
+|J| evolol
+<< >overused
+|c:|1488187149|@Baton Mash (|well tbf
+<< >overused
+|c:|1488187154| Blazelatiass|thats how i got an A in english 4 AP
+<< >overused
+|c:|1488187155| Blazelatiass|LOL
+<< >overused
+|c:|1488187155|@Baton Mash (|in comparison
+<< >overused
+|J| Shiijyei
+<< >overused
+|c:|1488187161|@Baton Mash (|tkam seems like a piece of cake
+<< >overused
+|L| Creator of Chaos
+<< >overused
+|L| Buyer
+<< >overused
+|c:|1488187167|@Baton Mash (|to the inferno trilogy
+<< >overused
+|c:|1488187169|@Baton Mash (|by dante
+<< >overused
+|J| coolboy1738
+<< >overused
+|L| xGangg
+<< >overused
+|L| bark1
+<< >overused
+|J| test v.04
+<< >overused
+|L| Mighty Rising Ace
+<< >overused
+|J| sunny82++
+<< >overused
+|J| samurott503
+<< >overused
+|J| Snurke
+<< >overused
+|L| test v.04
+<< >overused
+|c:|1488187204| Planktonz|can confirm
+<< >overused
+|c:|1488187210|@Baton Mash (|the book's a good read, just hand to comprehend though.
+<< >overused
+|c:|1488187211| Planktonz|English Lit AP student here in senior year
+<< >overused
+|c:|1488187214| mr.hight|is exeggutor-A a good trick room mon ?
+<< >overused
+|L| Carl Memeson\
+<< >overused
+|J| MarshmallowShadow
+<< >overused
+|c:|1488187221|@Baton Mash (|it's a decent tr setter
+<< >overused
+|L| lg131
+<< >overused
+|c:|1488187223| Planktonz|and it's just
+<< >overused
+|c:|1488187224| Planktonz|ugh
+<< >overused
+|L| IcySPicyRice
+<< >overused
+|L| iiilllllll
+<< >overused
+|c:|1488187239| beast boost|much prefer language to lit
+<< >overused
+|L| Iphone312
+<< >overused
+|J| IcySPicyRice
+<< >overused
+|J| ArabianOilPrince
+<< >overused
+|c:|1488187258| Planktonz|langauge is just easier so yeah xD
+<< >overused
+|c:|1488187260| beast boost|was a voracious reader when i was younger though, so i don't mind either
+<< >overused
+|L| RedzoneX
+<< >overused
+|J| GenOneLovin'
+<< >overused
+|L| anonymous2
+<< >overused
+|J| Yijun
+<< >overused
+|c:|1488187271| Planktonz|I love reading if I'm invested
+<< >overused
+|L| Bl153
+<< >overused
+|L| GenOneLovin'
+<< >overused
+|L| Bwtned
+<< >overused
+|J| ilesaural
+<< >overused
+|c:|1488187288| FreedGardener|Favorite Books go
+<< >overused
+|L| Ratodecampo
+<< >overused
+|J| Delibirdmag
+<< >overused
+|N| Protagonized|antagonized
+<< >overused
+|c:|1488187292| Blazelatiass|i actually liked lit more than language
+<< >overused
+|L| Alvar ͜..
+<< >overused
+|c:|1488187294| Planktonz|The Stranger
+<< >overused
+|c:|1488187296| Delibirdmag|yo
+<< >overused
+|J| Bwtned
+<< >overused
+|J| GenOneLovin'
+<< >overused
+|L| pseika
+<< >overused
+|c:|1488187300| Its ok to burn|absolute power
+<< >overused
+|L| Don Jon Bon Jovi
+<< >overused
+|c:|1488187307| Planktonz|the stranger is my favorite book in general though
+<< >overused
+|c:|1488187309| Delibirdmag|Z-roleplay Hoopa-unbound is p great
+<< >overused
+|L| call le po po
+<< >overused
+|c:|1488187312| Its ok to burn|(david baldacci)
+<< >overused
+|c:|1488187313| Delibirdmag|+1 speed
+<< >overused
+|c:|1488187317| Its ok to burn|n
+<< >overused
+|L| GenOneLovin'
+<< >overused
+|J| tmwasted
+<< >overused
+|J| Alvar ͜..
+<< >overused
+|c:|1488187321| Its ok to burn|z-snatch
+<< >overused
+|J| Shiengs
+<< >overused
+|c:|1488187324| Its ok to burn|its +2 speed
+<< >overused
+|J| Anis Gh ✔
+<< >overused
+|N| boyifyoudon|neilgames
+<< >overused
+|L| evolol
+<< >overused
+|c:|1488187329| Delibirdmag|oshit
+<< >overused
+|c:|1488187331| Delibirdmag|ill try that
+<< >overused
+|N| PoliSquad|batonmash
+<< >overused
+|c:|1488187344| Delibirdmag|thanks man
+<< >overused
+|J| ms er enterprise
+<< >overused
+|L| ms er enterprise
+<< >overused
+|J| SmackyMcNuttz
+<< >overused
+|J| Vir@t Kohl!
+<< >overused
+|L| asianiam
+<< >overused
+|c:|1488187386| FreedGardener|Atlas Shrugged/ 100 Years of Solitude
+<< >overused
+|L| sunny82++
+<< >overused
+|J| iElisa
+<< >overused
+|J| RedzoneX
+<< >overused
+|L| IcySPicyRice
+<< >overused
+|c:|1488187414| abk1997|please give me a core i should build around
+<< >overused
+|J| evolol
+<< >overused
+|J| kocex
+<< >overused
+|L| EduardundHD
+<< >overused
+|c:|1488187425| Blazelatiass|magickarp
+<< >overused
+|c:|1488187428| Alvar ͜..|Tapu Koko + LO Mamoswine
+<< >overused
+|c:|1488187428| FreedGardener|Char Y, Duggy, fini
+<< >overused
+|c:|1488187439| lolagain|i like ninetales-alola, my Team is so cool *-*
+<< >overused
+|L| tungsten_mammoth
+<< >overused
+|L| XingStyx
+<< >overused
+|c:|1488187447| Its ok to burn|L
+<< >overused
+|N| Abhishek trainer|virtkohl
+<< >overused
+|L| Snurke
+<< >overused
+|J| ur triggering me
+<< >overused
+|L| PrinceIbrahim99
+<< >overused
+|c:|1488187467| mr.hight|chansey Msableye
+<< >overused
+|L| samurott503
+<< >overused
+|L| tmwasted
+<< >overused
+|N| we'll show them!|letsshowthem
+<< >overused
+|J| DestinyUnknown
+<< >overused
+|J| DankerAsp47
+<< >overused
+|L| Vehement Incendium
+<< >overused
+|J| XpertElite
+<< >overused
+|L| Anis Gh ✔
+<< >overused
+|L| Lewy
+<< >overused
+|c:|1488187492| Lycon|goodmorning boyz
+<< >overused
+|N| Antagonized|protagonized
+<< >overused
+|J| IcySPicyRice
+<< >overused
+|c:|1488187499| FreedGardener|Tspike Toxapex + Defiant Thundurus
+<< >overused
+|J| SolaceAcheron
+<< >overused
+|L| tomyboca05
+<< >overused
+|c:|1488187506|+l les anon l|good afternoon to you too
+<< >overused
+|c:|1488187508| SolaceAcheron|DUGGIE LIVES
+<< >overused
+|L| yandaud
+<< >overused
+|c:|1488187513| Its ok to burn|yes
+<< >overused
+|c:|1488187524| Lycon|my rank 1 RMT is in the making
+<< >overused
+|c:|1488187525| Lycon|:D
+<< >overused
+|c:|1488187526| Planktonz|what're your thoughts on that?
+<< >overused
+|c:|1488187536| Planktonz|happy about it?
+<< >overused
+|c:|1488187537| SolaceAcheron|thank god, was the dummest suspect in a while
+<< >overused
+|L| Perez-Reverte
+<< >overused
+|c:|1488187544| Planktonz|I feel like timing was off
+<< >overused
+|J| Sbhajgg
+<< >overused
+|J| Sinisterbg
+<< >overused
+|c:|1488187548| mr.hight|+1 solace
+<< >overused
+|J| Teak_PR
+<< >overused
+|c:|1488187557|+l les anon l|it's not a dumb suspect
+<< >overused
+|c:|1488187559| SolaceAcheron|indeed.  when many of the megas get released, arena trap wont be as good anymore
+<< >overused
+|J| Lordemort
+<< >overused
+|c:|1488187562|+l les anon l|dugtrio discussion has been going on for months now
+<< >overused
+|c:|1488187566| Lordemort|mawile when
+<< >overused
+|c:|1488187567|+l les anon l|even during late ORAS
+<< >overused
+|c:|1488187570| Alvar ͜..|it was a needed suspect
+<< >overused
+|J| Slenderloli
+<< >overused
+|c:|1488187578| Planktonz|I think a resuspect might be worth considering down the line
+<< >overused
+|c:|1488187581|+l les anon l|we needed to end the discussion once and for all
+<< >overused
+|c:|1488187581| Its ok to burn|speaking of other megas
+<< >overused
+|c:|1488187583| SolaceAcheron|they should have suspected Arena Trap as a whole, for one
+<< >overused
+|L| FreedGardener
+<< >overused
+|J| FreedGardener
+<< >overused
+|c:|1488187590| Alvar ͜..|some people even said that Sableye ban was bc of duggy
+<< >overused
+|c:|1488187595| Its ok to burn|medi gonna be lit cause under eterrain it 2hkos sab
+<< >overused
+|J| CarLyal
+<< >overused
+|J| desfghjk
+<< >overused
+|c:|1488187610| Lordemort|ok but mawile when
+<< >overused
+|N| Kise/BasketModel|lolagain
+<< >overused
+|c:|1488187612| Planktonz|medi koko suddenly sounds amazing
+<< >overused
+|J| Snurke
+<< >overused
+|L|panthert
+<< >overused
+|c:|1488187617| SolaceAcheron|btw is mawile legal now?
+<< >overused
+|c:|1488187619| Lordemort|wasnt it the 27th
+<< >overused
+|c:|1488187620|+l les anon l|not yet
+<< >overused
+|c:|1488187624| Its ok to burn|ya
+<< >overused
+|L| kbjkbj
+<< >overused
+|c:|1488187627| Its ok to burn|gf probs forgot
+<< >overused
+|L| Bwtned
+<< >overused
+|J| kbjkbj
+<< >overused
+|c:|1488187634| Its ok to burn|that they were supposed to release it
+<< >overused
+|c:|1488187635| SolaceAcheron|sonuvabitch
+<< >overused
+|J| Kalm2014
+<< >overused
+|J| imsosorrylol
+<< >overused
+|c:|1488187644| Alvar ͜..|Mawile will probably be implemented SoonTM
+<< >overused
+|J| Jeffweff123
+<< >overused
+|c:|1488187646| SolaceAcheron|i thought it was supposed to come out yesterday
+<< >overused
+|L| Athosus
+<< >overused
+|c:|1488187655| mr.hight|Tapu lele + dugtrio + charozard X + pheromosa is a good core :p
+<< >overused
+|L| Cpt funky fresh
+<< >overused
+|L| G0ldenIX
+<< >overused
+|L| SolaceAcheron
+<< >overused
+|c:|1488187671| FreedGardener|What are the sets for Mawhile?
+<< >overused
+|L| Kalm2014
+<< >overused
+|J| anonymous2
+<< >overused
+|c:|1488187680| Alvar ͜..|SD 3 attacks
+<< >overused
+|c:|1488187684|+l les anon l|or subpunch
+<< >overused
+|J| SolaceAcheron
+<< >overused
+|L| GeniusX
+<< >overused
+|c:|1488187688| Alvar ͜..|and 4 attacks/SubPunch i guess
+<< >overused
+|L| Bolegunnar
+<< >overused
+|c:|1488187692| Its ok to burn|SUB SD 2 attacks
+<< >overused
+|N| Kise/BasketModel|kisebasketmodel
+<< >overused
+|c:|1488187694| Planktonz|what will it force switches on this gen?
+<< >overused
+|c:|1488187696| Its ok to burn|best set
+<< >overused
+|L| stealth cok
+<< >overused
+|c:|1488187699| FreedGardener|z moves will probably work well on it
+<< >overused
+|c:|1488187700| Planktonz|to set up subpunch
+<< >overused
+|c:|1488187700| mr.hight|sub is great
+<< >overused
+|J| Ahriblackouter
+<< >overused
+|c:|1488187704|+l les anon l|FreedGardener
+<< >overused
+|c:|1488187706|+l les anon l|its a mega
+<< >overused
+|c:|1488187709| FreedGardener|derp
+<< >overused
+|c:|1488187709| FreedGardener|lmao
+<< >overused
+|J| lonelyheffalump
+<< >overused
+|c:|1488187711| SolaceAcheron|sub punch is godly
+<< >overused
+|L| Young Snackz
+<< >overused
+|N| Believe Your Eyes|testsubject01
+<< >overused
+|L| not haruno
+<< >overused
+|c:|1488187726| Planktonz|z mega mawile lol
+<< >overused
+|c:|1488187728| Alvar ͜..|I think best set will be SD pr koff and coverage
+<< >overused
+|L| Superchicken0
+<< >overused
+|J| Jon greene
+<< >overused
+|L| DestinyUnknown
+<< >overused
+|c:|1488187743| mr.hight|substitute/ focus punch / sucker punch/ play roguh right ?
+<< >overused
+|c:|1488187745| Its ok to burn|i am going to make a mega beeoutclassedbyphreomosa anyways
+<< >overused
+|L| kocex
+<< >overused
+|c:|1488187764|+l les anon l|something like that mr.hight
+<< >overused
+|c:|1488187773| mr.hight|looks awesome
+<< >overused
+|L| gen7Poison
+<< >overused
+|L| Pawnf
+<< >overused
+|J| Gyro Zeppelin
+<< >overused
+|c:|1488187781| mr.hight|I was playing only SD in the pase
+<< >overused
+|J| stealth cok
+<< >overused
+|c:|1488187785| mr.hight|past
+<< >overused
+|L| DankerAsp47
+<< >overused
+|L| iElisa
+<< >overused
+|J| Saftis2
+<< >overused
+|J| amatistagranate4
+<< >overused
+|L| stealth cok
+<< >overused
+|J| oddwombat
+<< >overused
+|J| Randbat Spam
+<< >overused
+|L| lukepowerranger3
+<< >overused
+|L| oddwombat
+<< >overused
+|c:|1488187823| Randbat Spam|Dugtrio stays? Wow.
+<< >overused
+|c:|1488187828|+l les anon l|ye
+<< >overused
+|c:|1488187832|+l les anon l|I mean
+<< >overused
+|c:|1488187835|+l les anon l|voting took 3 days
+<< >overused
+|J| MrPCGamer1234
+<< >overused
+|c:|1488187838| Randbat Spam|No Mega Maw/Bee yet?
+<< >overused
+|c:|1488187841|+l les anon l|Not yet
+<< >overused
+|J| portchy
+<< >overused
+|c:|1488187847| Planktonz|once it took longer than 2 i kinda thought this was inevitable
+>> |/cmd roomlist
+<< |queryresponse|roomlist|{"rooms":{"battle-gen7vgc2017-539673640":{"p1":"darw15","p2":"DarkwingGOAT","minElo":1343},"battle-gen7randombattle-539673639":{"p1":"fakesathana","p2":"windsordog","minElo":1435},"battle-gen7randombattle-539673638":{"p1":"AvivTheMLGPro","p2":"escanor sun","minElo":1000},"battle-gen7hackmonscup-539673637":{"p1":"Dialga174","p2":"moomoomilk101"},"battle-gen7ou-539673636":{"p1":"mr.hight","p2":"Miklo Velka","minElo":1197},"battle-ou-539673635":{"p1":"Saftis2","p2":"u5401112","minElo":1230},"battle-gen7uu-539673634":{"p1":"Merlin du 93","p2":"dickmedownjohnny","minElo":1037},"battle-gen7anythinggoes-539673633":{"p1":"apethanos","p2":"Xuaaaar"},"battle-gen71v1-539673632":{"p1":"CallMeJJok3R","p2":"Basauri 232","minElo":1222},"battle-gen7randombattle-539673631":{"p1":"Kingdelgre","p2":"overworld99","minElo":1484},"battle-gen7ou-539673630":{"p1":"JustUnlucky123","p2":"ArabianOilPrince"},"battle-gen7balancedhackmonssuspecttest-539673629":{"p1":"leilai","p2":"litten4lyf","minElo":1260},"battle-gen7vgc2017-539673628":{"p1":"Kamihate07","p2":"portchy","minElo":1332},"battle-gen7randombattle-539673627":{"p1":"taktakabig","p2":"gigialexxx","minElo":1141},"battle-gen7doublesou-539673626":{"p1":"SEMPAI1231","p2":"caasi"},"battle-gen7randombattle-539673625":{"p1":"Shin-Valkyria","p2":"Luisalcobendas22","minElo":1230},"battle-gen7randombattle-539673624":{"p1":"srwacky","p2":"Barry7998"},"battle-gen7randombattle-539673623":{"p1":"ZeroPhiDelta","p2":"Cascamelapov2001","minElo":1651},"battle-gen7ou-539673622":{"p1":"mploz","p2":"Vodka Masutra","minElo":1231},"battle-gen7vgc2017-539673621":{"p1":"POOOOT","p2":"JimJiminy","minElo":1207},"battle-gen7randombattle-539673620":{"p1":"myassissixinches","p2":"olderentry","minElo":1379},"battle-gen7ou-539673619":{"p1":"AnAsianGeek123","p2":"damog","minElo":1066},"battle-gen7randombattle-539673618":{"p1":"hdjamnda","p2":"umburon","minElo":1000},"battle-gen7randombattle-539673617":{"p1":"Afaffi","p2":"Blindeyesniperz","minElo":1150},"battle-gen7randombattle-539673616":{"p1":"cockstraw","p2":"Phgfxjhdrh","minElo":1041},"battle-gen7ubers-539673615":{"p1":"chaurew2","p2":"sapple12","minElo":1114},"battle-gen7ou-539673614":{"p1":"Lord Wallace","p2":"thebridgetopeace","minElo":1521},"battle-gen7ou-539673613":{"p1":"ShinigamiXShinobi","p2":"Ekait","minElo":1155},"battle-gen7monotype-539673612":{"p1":"Facov","p2":"MewIsAll","minElo":1373},"battle-gen7randombattle-539673611":{"p1":"johnybasslass","p2":"A Moist Crevice","minElo":1559},"battle-gen7randombattle-539673610":{"p1":"Gjckgckyc","p2":"Dhghjjgvghsfghfguj","minElo":1000},"battle-gen7randomdoublesbattle-539673609":{"p1":"SHshavah","p2":"jacobjacob","minElo":1000},"battle-gen7randombattle-539673608":{"p1":"Pumpnite","p2":"ItsJustAConspiracy","minElo":1143},"battle-gen7ou-539673607":{"p1":"RJ75","p2":"mopsie","minElo":1000},"battle-gen7randombattle-539673606":{"p1":"srdheth","p2":"WalrusEggs","minElo":1107},"battle-gen7vgc2017-539673605":{"p1":"Testinyan","p2":"Ryanboy01","minElo":1058},"battle-gen7rualpha-539673604":{"p1":"ZenGodYa","p2":"snailyalater","minElo":1103},"battle-gen7randombattle-539673603":{"p1":"Meteori zxy","p2":"ONGRyo","minElo":1054},"battle-gen7monotype-539673602":{"p1":"Davidan97","p2":"GigaTalonflame","minElo":1000},"battle-gen7randombattle-539673601":{"p1":"Maario","p2":"sapphh","minElo":1195},"battle-gen7randombattle-539673600":{"p1":"Wu-Tang Clamperl","p2":"Keynerjimenez","minElo":1392},"battle-gen7randomdoublesbattle-539673599":{"p1":"Drake_kz","p2":"Kaney waste","minElo":1152},"battle-gen7randomdoublesbattle-539673598":{"p1":"MicyMax","p2":"DragonSlayer296","minElo":1299},"battle-gen7uu-539673597":{"p1":"bks1999","p2":"AbiBrionne","minElo":1044},"battle-gen7balancedhackmonssuspecttest-539673596":{"p1":"Robert Stancu.","p2":"rileykiller5","minElo":1049},"battle-gen7ou-539673595":{"p1":"kirigara20","p2":"Madman2932","minElo":1083},"battle-gen7randombattle-539673594":{"p1":"Oskarix","p2":"Snugertix"},"battle-gen7vgc2017-539673592":{"p1":"VanSwagVGC","p2":"dkd637","minElo":1209},"battle-gen7vgc2017-539673591":{"p1":"matsuken","p2":"mame_tan326","minElo":1516},"battle-gen7doublesou-539673590":{"p1":"Lazerwalker1","p2":"figorbello","minElo":1334},"battle-gen7ou-539673589":{"p1":"Myrisef's_tests","p2":"ZubiDoobiDoo","minElo":1471},"battle-gen7randombattle-539673588":{"p1":"Yazzy","p2":"Hardstylefavour","minElo":1368},"battle-gen7randombattle-539673586":{"p1":"Odenmaru","p2":"Tzucud"},"battle-gen7randombattle-539673585":{"p1":"Ethany","p2":"YoshiLord7"},"battle-gen7randombattle-539673584":{"p1":"PeteDawggy","p2":"AnthYNWA"},"battle-gen7unratedrandombattle-539673583":{"p1":"Henri le noir","p2":"LebKnyte"},"battle-gen7randombattle-539673582":{"p1":"Cliris","p2":"Railroad Authority","minElo":1702},"battle-gen7ou-539673581":{"p1":"El3ctr0web","p2":"moustique12","minElo":1008},"battle-gen7randombattle-539673580":{"p1":"hfhdgh","p2":"kinderficker09","minElo":1040},"battle-gen7doublesubers-539673579":{"p1":"Nonstoprider198","p2":"Maeron Adaar","minElo":1164},"battle-gen7randombattle-539673578":{"p1":"Salty Skittles","p2":"Wingal","minElo":1175},"battle-gen7randombattle-539673577":{"p1":"Heligo","p2":"guipal","minElo":1471},"battle-gen7randombattle-539673576":{"p1":"goku is cool","p2":"Dalun","minElo":1000},"battle-gen7ubers-539673575":{"p1":"sdfghjol","p2":"Blazooooh","minElo":1046},"battle-gen7doublesou-539673574":{"p1":"Akkenn","p2":"illeniumFans","minElo":1017},"battle-gen7ou-539673573":{"p1":"shabaninonda","p2":"Ucyra","minElo":1237},"battle-gen7battlespotsingles-539673572":{"p1":"Seahornet11","p2":"shiraneaoi","minElo":1354},"battle-gen7ou-539673571":{"p1":"heandlam","p2":"KaiserFranz98","minElo":1016},"battle-gen7randombattle-539673570":{"p1":"THEPROBOY","p2":"SpiritualCupcake1"},"battle-gen7vgc2017-539673569":{"p1":"oisiihati","p2":"mikewwm8","minElo":1489},"battle-gen7randombattle-539673568":{"p1":"art514554415","p2":"BigBlackBird","minElo":1240},"battle-gen7randombattle-539673567":{"p1":"LP44570","p2":"Endofi","minElo":1392},"battle-gen7ou-539673566":{"p1":"dragon victor","p2":"Sconnos","minElo":1180},"battle-gen7randombattle-539673565":{"p1":"rusrusirius","p2":"MegaManu02","minElo":1170},"battle-gen7randombattle-539673564":{"p1":"dsfdsfsd432423","p2":"ItIsAFiber","minElo":1045},"battle-gen7randombattle-539673563":{"p1":"Lol2636","p2":"Leo284728462846YT","minElo":1000},"battle-gen7anythinggoes-539673562":{"p1":"I3lackstar","p2":"That one fuckface","minElo":1231},"battle-gen7ou-539673560":{"p1":"Meliodas7777","p2":"2scarfsimaflip","minElo":1042},"battle-gen7uu-539673559":{"p1":"The Worst Alive","p2":"Selena HOEmez","minElo":1074},"battle-gen7randombattle-539673558":{"p1":"fred523f","p2":"dfasdfasdfsdfsdf","minElo":1040},"battle-gen7randombattle-539673557":{"p1":"rayquazav","p2":"UnusedBucket","minElo":1497},"battle-gen7anythinggoes-539673556":{"p1":"NotaShota","p2":"coolboy1738","minElo":1036},"battle-gen7randombattle-539673555":{"p1":"ersilensioso","p2":"sssfdxhdscz","minElo":1000},"battle-gen7ou-539673554":{"p1":"GuitaristBenjammin","p2":"SkylanderGAmer","minElo":1108},"battle-gen7randombattle-539673553":{"p1":"realjdc","p2":"Will&Wish","minElo":1657},"battle-gen7ou-539673552":{"p1":"stealth cok","p2":"Informants","minElo":1407},"battle-gen7battlespotsingles-539673551":{"p1":"tmtdegurechaff","p2":"JAL CWY","minElo":1378},"battle-gen7randombattle-539673550":{"p1":"bongschlong","p2":"QuangAnh","minElo":1152},"battle-gen7randombattle-539673549":{"p1":"Anis Gh ✔","p2":"Awwabi","minElo":1117},"battle-gen7ou-539673548":{"p1":"Baseballplaya12","p2":"Snurke","minElo":1347},"battle-gen7randombattle-539673547":{"p1":"Krizz312","p2":"varun1803"},"battle-gen7vgc2017-539673546":{"p1":"Jorgeisgay","p2":"swampytuff","minElo":1135},"battle-gen7ou-539673545":{"p1":"TilleJirachi","p2":"FLShakezula","minElo":1137},"battle-gen7randombattle-539673544":{"p1":"raggu","p2":"arslan99","minElo":1380},"battle-gen7doublesou-539673543":{"p1":"a bad dou player","p2":"lordofduh","minElo":1116},"battle-gen7vgc2017-539673542":{"p1":"mascott3","p2":"zeriam974","minElo":1054},"battle-gen7randombattle-539673541":{"p1":"silentblue246","p2":"Jashmine","minElo":1092},"battle-gen7ou-539673540":{"p1":"g-lams","p2":"MisterPapa91","minElo":1091},"battle-gen7battlespotsingles-539673539":{"p1":"8823bird","p2":"kurokoman","minElo":1083},"battle-gen7vgc2017-539673538":{"p1":"RED1113","p2":"Tobias027","minElo":1415}}}
+>> |/join battle-gen7vgc2017-539673640
+<< >battle-gen7vgc2017-539673640
+|init|battle
+|title|darw15 vs. DarkwingGOAT
+|j|darw15
+|j|DarkwingGOAT
+|player|p1|darw15|209
+|player|p2|DarkwingGOAT|10
+|gametype|doubles
+|gen|7
+|tier|[Gen 7] VGC 2017
+|rated
+|seed|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit one of each item
+|clearpoke
+|poke|p1|Hariyama, L50, F|item
+|poke|p1|Magneton, L50|item
+|poke|p1|Slowbro, L50, M|item
+|poke|p1|Ninetales-Alola, L50, M|item
+|poke|p1|Marowak-Alola, L50, F|item
+|poke|p1|Gyarados, L50, M|item
+|poke|p2|Aerodactyl, L50, M|item
+|poke|p2|Xurkitree, L50|item
+|poke|p2|Krookodile, L50, M, shiny|item
+|poke|p2|Nihilego, L50|item
+|poke|p2|Pheromosa, L50|item
+|poke|p2|Kartana, L50|item
+|teampreview|4
+|j|hmmmmmwow
+<< >overused
+|J| Vubon
+trigger: event message:search:update failed with TypeError: Cannot read property 'style' of undefined
+
+<< >overused
+|J| yrs
+<< >overused
+|J| hullabo
+<< >overused
+|c:|1488187858| Randbat Spam|Disorient, did you get promoted?
+<< >overused
+|J| Sabaneak
+<< >overused
+|c:|1488187862|@Disorient|Yes
+<< >overused
+|L| Gandash
+<< >overused
+|c:|1488187865|@Disorient|Yesterday
+<< >overused
+|c:|1488187865| Randbat Spam|Awesome.
+<< >overused
+|L| Bad Grammar Man
+<< >overused
+|L| DeathbyPyukumuku
+<< >overused
+|c:|1488187871| Its ok to burn|oh i didn't even notice
+<< >overused
+|c:|1488187872| Planktonz|Congrats Disorient
+<< >overused
+|c:|1488187872| Its ok to burn|gz
+<< >overused
+|c:|1488187873| SolaceAcheron|im looking forward to using m-mawile and m-bee on wifi
+<< >overused
+|c:|1488187874| Randbat Spam|Thought so; you were % when we last spoke.
+<< >battle-gen7vgc2017-539673640
+
+|c|☆darw15|4 UB
+<< >overused
+|L| beast boost
+<< >overused
+|L| MrPCGamer1234
+<< >battle-gen7vgc2017-539673640
+
+|c|☆darw15|gl hf
+<< >overused
+|J| peanutbutterkiller
+<< >overused
+|c:|1488187892| mr.hight|I like that tapu fini and MMawile share 0 weakness
+>> |/leave battle-gen7vgc2017-539673640
+<< >battle-gen7vgc2017-539673640
+|deinit
+trigger: event message:search:update failed with TypeError: Cannot read property 'style' of undefined
+
+<< >overused
+|N| always memes|imsosorrylol
+>> |/cmd roomlist 
+<< |queryresponse|roomlist|{"rooms":{"battle-gen7randombattle-539673760":{"p1":"mogogo","p2":"potenze","minElo":1473},"battle-gen7battlespotsingles-539673759":{"p1":"Suinub","p2":"Shikinaga","minElo":1276},"battle-gen7randombattle-539673758":{"p1":"anapinto","p2":"fabz19","minElo":1333},"battle-gen7battlespotsingles-539673757":{"p1":"vicky2","p2":"Heraherapoke","minElo":1299},"battle-gen7randombattle-539673756":{"p1":"Hockeychun","p2":"ceh190","minElo":1032},"battle-gen7ubers-539673755":{"p1":"hullabo","p2":"Janitors","minElo":1084},"battle-gen7randombattle-539673754":{"p1":"BradyofTime14","p2":"Cygnaeon","minElo":1283},"battle-gen7randombattle-539673753":{"p1":"jordifv11","p2":"markwp11"},"battle-gen7ubers-539673752":{"p1":"Jvdb2003","p2":"adisk","minElo":1017},"battle-gen7ou-539673751":{"p1":"McNoodle","p2":"BaconEatinAssassin","minElo":1302},"battle-gen7randombattle-539673750":{"p1":"Minhring","p2":"edtxjhytd","minElo":1845},"battle-gen7randombattle-539673749":{"p1":"Doomadelica","p2":"Bboomer21","minElo":1697},"battle-gen7randombattle-539673748":{"p1":"FK420","p2":"Sc2401"},"battle-gen7randombattle-539673747":{"p1":"hsfghsdgfdg","p2":"Dalun","minElo":1000},"battle-ou-539673746":{"p1":"SensualDane","p2":"mmmim","minElo":1109},"battle-gen6randombattle-539673745":{"p1":"JEDZELSP","p2":"diamond buster","minElo":1040},"battle-gen7ou-539673744":{"p1":"Deathbat4946","p2":"sdfdsghyjuktr","minElo":1050},"battle-gen7randombattle-539673743":{"p1":"Animal Croissant","p2":"Di Vincenzo","minElo":1223},"battle-gen7vgc2017-539673742":{"p1":"hugocabj93","p2":"LaprasX92","minElo":1118},"battle-gen7battlespotdoubles-539673741":{"p1":"RedEyesStillToken","p2":"redshoot","minElo":1020},"battle-gen7ou-539673740":{"p1":"thirteen words","p2":"SolaceAcheron","minElo":1522},"battle-gen7monotype-539673739":{"p1":"TobiSPT","p2":"mantheman97","minElo":1239},"battle-gen7anythinggoes-539673738":{"p1":"U R DEAD!Hoovy(TF2","p2":"SapphireGh0st","minElo":1040},"battle-gen7vgc2017-539673737":{"p1":"GhostyInfinity","p2":"supreme vgc2017","minElo":1491},"battle-gen7randombattle-539673736":{"p1":"randomcurtikun","p2":"hoiboi","minElo":1492},"battle-gen7ou-539673735":{"p1":"Olaskag","p2":"GWJames","minElo":1038},"battle-ubers-539673734":{"p1":"mottoriacceso","p2":"AaronJ69","minElo":1387},"battle-gen7randombattle-539673733":{"p1":"Liseyn","p2":"Jynkx Monsoon","minElo":1098},"battle-gen7randombattle-539673732":{"p1":"charizardsss","p2":"pkmnshwdwn","minElo":1184},"battle-gen7ou-539673731":{"p1":"Kise/BasketModel","p2":"spooppp","minElo":1000},"battle-gen7doublesou-539673730":{"p1":"swdfghjkluytrewer","p2":"stormysniper","minElo":1129},"battle-gen7vgc2017-539673729":{"p1":"Ming2134","p2":"Dalf","minElo":1179},"battle-gen7randombattle-539673728":{"p1":"deadpool_madness","p2":"hklhjkl","minElo":1060},"battle-gen7randombattle-539673727":{"p1":"CYI","p2":"alpha excedra","minElo":1417},"battle-gen7randombattle-539673726":{"p1":"goku is cool","p2":"dada128","minElo":1038},"battle-gen7vgc2017-539673725":{"p1":"xKrevadx","p2":"PkSbm","minElo":1129},"battle-gen7ubers-539673724":{"p1":"GenesiXxXx","p2":"Archeios","minElo":1189},"battle-gen7monotype-539673723":{"p1":"MiguliHa","p2":"flying lizard","minElo":1116},"battle-gen7anythinggoes-539673722":{"p1":"Ryhcon","p2":"king$panos","minElo":1039},"battle-gen7battlespotsingles-539673721":{"p1":"Vapelordlink","p2":"Pory zzZ","minElo":1059},"battle-gen7randombattle-539673720":{"p1":"IamNightShadow","p2":"popopoo","minElo":1343},"battle-gen7uu-539673719":{"p1":"moreismore","p2":"Meakiai14","minElo":1000},"battle-gen7randombattle-539673718":{"p1":"mikethegreat777","p2":"Psyko Sama","minElo":1248},"battle-gen7rualpha-539673717":{"p1":"Issoufouleterrible","p2":"Mystellline","minElo":1040},"battle-gen7ou-539673716":{"p1":"FullCancer","p2":"AC YT Gaming","minElo":1236},"battle-gen7randombattle-539673715":{"p1":"bcgilmartin","p2":"Karmapolice01","minElo":1543},"battle-gen7doublesou-539673714":{"p1":"joery","p2":"Haven24","minElo":1085},"battle-gen7anythinggoes-539673712":{"p1":"DerGrosseNagus","p2":"Charlotte151","minElo":1180},"battle-gen7randombattle-539673711":{"p1":"gasonios","p2":"Marcobigo","minElo":1084},"battle-gen7randombattle-539673710":{"p1":"MorzeroPSL","p2":"dovakhiin9","minElo":1215},"battle-gen7ou-539673709":{"p1":"Mmkgamer","p2":"Jolteon111","minElo":1051},"battle-gen7challengecup1v1-539673708":{"p1":"Buyer","p2":"Swellonaut","minElo":1040},"battle-gen7randombattle-539673707":{"p1":"Pokemon4funz","p2":"Gjckgckyc","minElo":1000},"battle-gen7vgc2017-539673706":{"p1":"Jayhyun123","p2":"ZzFutureVGZz","minElo":1603},"battle-gen7randombattle-539673705":{"p1":"eltaco807","p2":"Espeon468","minElo":1000},"battle-gen7randombattle-539673704":{"p1":"DiablousNote2","p2":"Dragonic889","minElo":1598},"battle-gen7randombattle-539673703":{"p1":"Lemmekillbill","p2":"Quantum Man","minElo":1122},"battle-gen7uu-539673702":{"p1":"MetroBulin","p2":"adictosclan","minElo":1039},"battle-gen7randombattle-539673701":{"p1":"gigialexxx","p2":"Namfoodles","minElo":1141},"battle-gen7randombattle-539673700":{"p1":"ramos1496","p2":"Magikarp Rule 34","minElo":1292},"battle-gen7randombattle-539673699":{"p1":"SirchickenZ","p2":"a4r254","minElo":1000},"battle-gen7ou-539673698":{"p1":"Jeffweff123","p2":"Vinkeys","minElo":1000},"battle-gen7randombattle-539673697":{"p1":"Holasiola","p2":"Minty00","minElo":1333},"battle-gen7vgc2017-539673696":{"p1":"poorbroketired","p2":"Indigogogo","minElo":1551},"battle-gen1randombattle-539673695":{"p1":"ass k3chup","p2":"omero","minElo":1293},"battle-gen7randombattle-539673694":{"p1":"Neess_","p2":"Freddolf","minElo":1219},"battle-gen7randombattle-539673693":{"p1":"BabbyWookie","p2":"DaddyWookie"},"battle-gen7randombattle-539673692":{"p1":"jean-mielleux","p2":"lilauxy","minElo":1722},"battle-gen7ou-539673691":{"p1":"Slashgrin","p2":"pedrotabuenca","minElo":1037},"battle-gen7ou-539673690":{"p1":"AmmiraglioT","p2":"jkgsst","minElo":1406},"battle-gen7randombattle-539673689":{"p1":"Anikate","p2":"Silvia blanco meis","minElo":1000},"battle-gen7randombattle-539673688":{"p1":"ankitjungbahadur","p2":"Mr. Motivation","minElo":1455},"battle-gen7ou-539673687":{"p1":"AC YT Gaming","p2":"NanG111","minElo":1161},"battle-gen7ou-539673686":{"p1":"twination leader","p2":"RepenterX"},"battle-gen7randomdoublesbattle-539673685":{"p1":"Dk93","p2":"jacksunslight","minElo":1240},"battle-gen7ou-539673684":{"p1":"energy gap","p2":"sami985","minElo":1082},"battle-gen7anythinggoes-539673683":{"p1":"MRC1994","p2":"juleanjay","minElo":1313},"battle-gen7randombattle-539673682":{"p1":"ChickenSoupy","p2":"Ikertxo993","minElo":1266},"battle-gen7randombattle-539673681":{"p1":"xbpg","p2":"xShockFrostx","minElo":1078},"battle-gen7anythinggoes-539673680":{"p1":"joshh562","p2":"fpgamez10","minElo":1043},"battle-gen7challengecup1v1-539673679":{"p1":"Palin 2020","p2":"Skydome200","minElo":1000},"battle-ou-539673678":{"p1":"joshua121341","p2":"Wokinmybox"},"battle-gen7randombattle-539673677":{"p1":"GPee","p2":"ZeroPhiDelta","minElo":1757},"battle-gen7uu-539673676":{"p1":"scarfedninjakev","p2":"Knala1567","minElo":1000},"battle-gen7randombattle-539673675":{"p1":"Tortellino Carino","p2":"Breakmussi","minElo":1258},"battle-gen7randombattle-539673674":{"p1":"sitho_ma","p2":"Boobyjoint","minElo":1000},"battle-anythinggoes-539673673":{"p1":"AngryneedJesus","p2":"PurpleThugg","minElo":1017},"battle-gen7randombattle-539673671":{"p1":"pene123123","p2":"dsfdsfsd432423","minElo":1088},"battle-gen7randombattle-539673670":{"p1":"Alex9797at","p2":"SuchPosh"},"battle-gen7randombattle-539673669":{"p1":"Vfvf v h","p2":"Sukus","minElo":1000},"battle-gen7randombattle-539673668":{"p1":"cuatromorce","p2":"cristian2003","minElo":1063},"battle-gen7ou-539673667":{"p1":"sailbis11","p2":"Glurakaiser","minElo":1123},"battle-gen7randombattle-539673666":{"p1":"danstr98","p2":"Capt.Hydra","minElo":1027},"battle-gen7randombattle-539673665":{"p1":"TN LUXRAY","p2":"ArinisSavage"},"battle-gen7battlespotdoubles-539673664":{"p1":"jkrkr8","p2":"eljoshdelamuerter","minElo":1000},"battle-gen7vgc2017-539673663":{"p1":"RagingCookies","p2":"leppo","minElo":1022},"battle-gen7randombattle-539673662":{"p1":"MUG12","p2":"sdfghasdfv","minElo":1469},"battle-gen7randomdoublesbattle-539673661":{"p1":"kyliejen","p2":"Ryan96","minElo":1194},"battle-gen7randombattle-539673660":{"p1":"iamtalib","p2":"makepokegreatagain","minElo":1422},"battle-uu-539673659":{"p1":"mfong123","p2":"Alvee","minElo":1194}}}
+>> |/join battle-gen7battlespotsingles-539673759
+<< >battle-gen7battlespotsingles-539673759
+|init|battle
+|title|Suinub vs. Shikinaga
+|j|Suinub
+|j|Shikinaga
+|player|p1|Suinub|138
+|player|p2|Shikinaga|66
+|gametype|singles
+|gen|7
+|tier|[Gen 7] Battle Spot Singles
+|rated
+|seed|
+|clearpoke
+|poke|p1|Lucario, L50, F|item
+|poke|p1|Gyarados, L50, F|item
+|poke|p1|Tapu Lele, L50|item
+|poke|p1|Tapu Koko, L50|item
+|poke|p1|Mimikyu, L50, F|item
+|poke|p1|Gengar, L50, F|item
+|poke|p2|Slowbro, L50, M|item
+|poke|p2|Excadrill, L50, F|item
+|poke|p2|Volcarona, L50, M|item
+|poke|p2|Salamence, L50, F|item
+|poke|p2|Tapu Koko, L50|item
+|poke|p2|Tyranitar, L50, M|item
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit one of each item
+|teampreview|3
+|j|hmmmmmwow
+trigger: event message:search:update failed with TypeError: Cannot read property 'style' of undefined
+
+<< >overused
+|c:|1488187913| Planktonz|kinda like venutran
+<< >overused
+|c:|1488187915| Astral Flow|Me too, Solace
+<< >overused
+|c:|1488187920| Randbat Spam|I didn't notice that.
+<< >overused
+|J| CreatureOfTheNight
+<< >battle-gen7battlespotsingles-539673759
+|inactive|Battle timer is now ON: inactive players will automatically lose when time's up. (requested by Shikinaga)
+<< >overused
+|c:|1488187925| Randbat Spam|That's gonna be a solid core.
+<< >overused
+|L| Phoenix Christ
+<< >overused
+|c:|1488187926|@Disorient|TyTy
+<< >overused
+|L| Bravesword Twelve
+<< >overused
+|L| Yijun
+<< >overused
+|c:|1488187939|@Disorient|Mmawile is solid with a lot of things
+<< >overused
+|c:|1488187941|@Disorient|Godlike typing
+<< >overused
+|c:|1488187946|@Disorient|!weak Mega Mawile
+|html|<div class="infobox">Mawile-Mega (ignoring abilities):<br /><span class="message-effect-weak">Weaknesses</span>: Fire, Ground<br /><span class="message-effect-resist">Resistances</span>: <b>Bug</b>, Dark, Fairy, Flying, Grass, Ice, Normal, Psychic, Rock<br /><span class="message-effect-immune">Immunities</span>: Dragon, Poison</div>
+<< >overused
+|c:|1488187951| mr.hight|Mawile + tapu fini + tankchomp ?
+<< >battle-gen7battlespotsingles-539673759
+|inactive|Suinub has 120 seconds left.
+<< >overused
+|J| Yijun
+<< >overused
+|L| Kapena
+<< >overused
+|J| Phoenix Christ
+<< >overused
+|J| caesium
+<< >overused
+|L|%SteelEdges
+<< >overused
+|L| Blazen͜͡ix☆
+<< >overused
+|c:|1488187968| Randbat Spam|Still no common weaknesses?
+<< >overused
+|J| danksnaps
+<< >overused
+|L| Delibirdmag
+<< >overused
+|L| abk1997
+<< >battle-gen7battlespotsingles-539673759
+|inactive|Suinub has 90 seconds left.
+<< >battle-gen7battlespotsingles-539673759
+
+|choice||
+|
+|start
+|switch|p1a: Mimikyu|Mimikyu, L50, F|48/48
+|switch|p2a: Excadrill|Excadrill, L50, F|48/48
+|-ability|p2a: Excadrill|Mold Breaker
+|turn|1
+<< >overused
+|L| ZoldPGL
+<< >overused
+|L| Ahriblackouter
+<< >overused
+|L| Shiengs
+<< >overused
+|J| FlashDan
+<< >overused
+|J| PedonculeDeGzor
+<< >battle-gen7battlespotsingles-539673759
+
+|choice||
+|
+|switch|p1a: Gyarados|Gyarados, L50, F|48/48
+|-ability|p1a: Gyarados|Intimidate|boost
+|-unboost|p2a: Excadrill|atk|1
+|move|p2a: Excadrill|Iron Head|p1a: Gyarados
+|-resisted|p1a: Gyarados
+|-damage|p1a: Gyarados|38/48
+|
+|upkeep
+|turn|2
+<< >overused
+|c:|1488188001| mr.hight|yes
+<< >overused
+|J| Ahriblackouter
+<< >overused
+|c:|1488188008| Randbat Spam|Wow.
+<< >overused
+|L| peanutbutterkiller
+<< >overused
+|L| Prankster is BS
+<< >overused
+|J| 2kPiT
+<< >overused
+|c:|1488188018| FreedGardener|damn Mawhile is a monster
+<< >battle-gen7battlespotsingles-539673759
+
+|choice||
+|
+|switch|p2a: Tapu Koko|Tapu Koko, L50|48/48
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|
+|upkeep
+|turn|3
+<< >overused
+|L| DankMuffin
+<< >overused
+|L| NitioWO
+<< >overused
+|J| TheRealStevenKing
+<< >overused
+|c:|1488188035| FreedGardener|Was it previously Uber?
+<< >overused
+|L| Teak_PR
+<< >overused
+|c:|1488188039|+l les anon l|y
+<< >overused
+|c:|1488188041| Randbat Spam|I think so.
+<< >battle-gen7battlespotsingles-539673759
+
+|choice||
+|
+|detailschange|p1a: Gyarados|Gyarados-Mega, L50, F
+|-mega|p1a: Gyarados|Gyarados|Gyaradosite
+|-ability|p1a: Gyarados|Mold Breaker
+|move|p1a: Gyarados|Earthquake|p2a: Tapu Koko
+|-supereffective|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|0 fnt
+|faint|p2a: Tapu Koko
+|
+|upkeep
+<< >overused
+|c:|1488188044| Randbat Spam|XY?
+<< >overused
+|c:|1488188051| Kise/BasketModel|magearna has the same typ
+<< >battle-gen7battlespotsingles-539673759
+
+|choice||
+|
+|switch|p2a: Salamence|Salamence, L50, F|48/48
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Gyarados|atk|1
+|turn|4
+<< >overused
+|c:|1488188054| mr.hight|yes
+<< >overused
+|c:|1488188056| Randbat Spam|Good thing about Maw: Duggy traps it quite nicely.
+<< >overused
+|J| elnt
+<< >battle-gen7battlespotsingles-539673759
+
+|l|Suinub
+<< >battle-gen7battlespotsingles-539673759
+|inactive|Suinub disconnected and has a minute to reconnect!
+<< >battle-gen7battlespotsingles-539673759
+
+|player|p1
+<< >battle-gen7battlespotsingles-539673759
+|inactive|Suinub has 60 seconds left.
+<< >overused
+|c:|1488188074| Planktonz|that's a bad thing xD
+<< >overused
+|L| cancer0
+<< >overused
+|L| oxudee
+<< >overused
+|c:|1488188080| RedzoneX|only if its sash is intact
+<< >overused
+|J| MooneBoyIrish
+<< >battle-gen7battlespotsingles-539673759
+
+|j|Suinub
+<< >battle-gen7battlespotsingles-539673759
+
+|player|p1|Suinub|138
+<< >overused
+|J| JoycapJoshST
+<< >overused
+|c:|1488188086| RedzoneX|assuming mawile has sucker
+<< >battle-gen7battlespotsingles-539673759
+|inactive|Suinub has 40 seconds left.
+<< >battle-gen7battlespotsingles-539673759
+
+|choice||
+|
+|detailschange|p2a: Salamence|Salamence-Mega, L50, F
+|-mega|p2a: Salamence|Salamence|Salamencite
+|move|p1a: Gyarados|Ice Fang|p2a: Salamence|[miss]
+|-miss|p1a: Gyarados|p2a: Salamence
+|move|p2a: Salamence|Double-Edge|p1a: Gyarados
+|-damage|p1a: Gyarados|0 fnt
+|-damage|p2a: Salamence|35/48|[from] recoil|[of] p1a: Gyarados
+|faint|p1a: Gyarados
+|
+|upkeep
+<< >overused
+|L| Sbhajgg
+<< >overused
+|J| Yungthirsty
+<< >overused
+|J| Sun ~
+<< >overused
+|L| Yungthirsty
+<< >overused
+|c:|1488188102| Its ok to burn|or mawile doesn't have sub up
+<< >overused
+|J| okokokokb
+<< >overused
+|J| Kabaleeb
+<< >overused
+|c:|1488188110| Astral Flow|Dodn't fall for it amatista. :) I'm not watching a chat roulete video.
+<< >battle-gen7battlespotsingles-539673759
+
+|choice||
+|
+|switch|p1a: Tapu Lele|Tapu Lele, L50|48/48
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|5
+<< >overused
+|J| Blazen͜͡ix☆
+<< >overused
+|J| Tyrion23
+<< >overused
+|c:|1488188127|@Disorient|Dugtrio actually
+<< >overused
+|c:|1488188130|@Disorient|cant ohko MMaw
+<< >overused
+|J| cesmoll
+<< >overused
+|c:|1488188131|@Disorient|unless band
+<< >overused
+|L| Sun ~
+<< >overused
+|c:|1488188135|@Disorient|and band is ohko'd by sucker
+<< >battle-gen7battlespotsingles-539673759
+
+|choice||
+|
+|move|p1a: Tapu Lele|Moonblast|p2a: Salamence
+|-supereffective|p2a: Salamence
+|-damage|p2a: Salamence|0 fnt
+|faint|p2a: Salamence
+|
+|upkeep
+<< >overused
+|c:|1488188137| RedzoneX|LOL
+<< >overused
+|N| p1ccolo|thickkev
+<< >overused
+|L| Ahriblackouter
+<< >battle-gen7battlespotsingles-539673759
+
+|choice||
+|
+|switch|p2a: Excadrill|Excadrill, L50, F|48/48
+|-ability|p2a: Excadrill|Mold Breaker
+|turn|6
+<< >overused
+|c:|1488188142| Jax11111|has duggy been banned?
+<< >overused
+|c:|1488188145| RedzoneX|no
+<< >overused
+|c:|1488188147| Its ok to burn|that is why if maw has sub up
+<< >battle-gen7battlespotsingles-539673759
+
+|choice||
+|
+|switch|p1a: Mimikyu|Mimikyu, L50, F|48/48
+|move|p2a: Excadrill|Iron Head|p1a: Mimikyu
+|-supereffective|p1a: Mimikyu
+|-damage|p1a: Mimikyu|0 fnt
+|faint|p1a: Mimikyu
+|
+|upkeep
+<< >overused
+|L| AbrarWasee
+<< >overused
+|c:|1488188149| RedzoneX|duggy stays
+<< >overused
+|c:|1488188150| Its ok to burn|duggy cant beat
+<< >overused
+|J| Flounderbasket
+<< >overused
+|c:|1488188154| Jax11111|YEAHHHHHHH
+<< >overused
+|c:|1488188156| always memes|eq into sucker might kill maw after rocks
+<< >overused
+|J| Tapufranku
+<< >overused
+|c:|1488188159| Jax11111|LOVE MY DUGGY
+<< >battle-gen7battlespotsingles-539673759
+
+|choice||
+|
+|switch|p1a: Tapu Lele|Tapu Lele, L50|48/48
+|turn|7
+<< >overused
+|J| hfhdgh
+<< >battle-gen7battlespotsingles-539673759
+
+|choice||
+|
+|move|p1a: Tapu Lele|Focus Blast|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|win|Suinub
+<< >battle-gen7battlespotsingles-539673759
+||Ladder updating...
+<< >battle-gen7battlespotsingles-539673759
+
+|player|p1
+<< >battle-gen7battlespotsingles-539673759
+
+|player|p2
+<< >battle-gen7battlespotsingles-539673759
+
+|raw|Suinub's rating: 1516 &rarr; <strong>1524</strong><br />(+8 for winning)
+|raw|Shikinaga's rating: 1277 &rarr; <strong>1267</strong><br />(-10 for losing)
+<< >battle-gen7battlespotsingles-539673759
+
+|l|Shikinaga
+<< >overused
+|J| StarRingChild
+<< >overused
+|L| CreatureOfTheNight
+<< >battle-gen7battlespotsingles-539673759
+
+|l|Suinub
+<< >overused
+|J| Elodeg
+<< >overused
+|J| Sun ~
+<< >overused
+|L| SmackyMcNuttz
+<< >overused
+|L| Abhishek trainer
+<< >overused
+|c:|1488188204| SolaceAcheron|duggie stays.  hurrah
+<< >overused
+|L| Sabaneak
+<< >overused
+|J| Cliris
+<< >overused
+|J| Thunder Pokemooon
+<< >overused
+|L| Cliris
+<< >overused
+|L| Kabaleeb
+<< >overused
+|J| Djokra
+<< >overused
+|J| Kabaleeb
+<< >overused
+|c:|1488188217| JoycapJoshST|252 Atk Dugtrio Earthquake vs. 252 HP / 0 Def Mawile-Mega: 224-266 (73.6 - 87.5%) -- guaranteed 2HKO after Stealth Rock
+<< >overused
+|c:|1488188220|+l les anon l|EQ+sucker+rocks doesn't kill bulky maw
+<< >overused
+|c:|1488188224| SolaceAcheron|mawile lives eq
+<< >overused
+|c:|1488188231| SolaceAcheron|you'll need to outplay with screech
+<< >overused
+|c:|1488188233| always memes|l les anon l u can sucker twice
+<< >overused
+|c:|1488188238| RedzoneX|screech lol
+<< >overused
+|c:|1488188239| SolaceAcheron|and thats all 50/50s
+<< >overused
+|c:|1488188243| always memes|cuz they'll always sucker
+<< >overused
+|J| Ahriblackouter
+<< >overused
+|c:|1488188250|+l les anon l|n
+<< >overused
+|c:|1488188255|+l les anon l|you need to win the 50/50
+<< >overused
+|L| Planktonz
+<< >overused
+|c:|1488188258|+l les anon l|re sucker
+<< >overused
+|c:|1488188259| always memes|calc sucker
+<< >overused
+|J| Cpt funky fresh
+<< >overused
+|c:|1488188263| always memes|on maw
+<< >overused
+|L| HyperGardevoir
+<< >overused
+|J| coolfreeze
+<< >overused
+|c:|1488188265|+l les anon l|252 Atk Dugtrio Sucker Punch vs. 252 HP / 0 Def Mawile-Mega: 26-31 (8.5 - 10.1%) -- possibly the worst move ever
+<< >overused
+|J| Abhishek trainer
+<< >overused
+|L| hfhdgh
+<< >overused
+|c:|1488188274| always memes|its a roll after rocks
+<< >overused
+|J| Kalm2014
+<< >overused
+|L| Kalm2014
+<< >overused
+|c:|1488188282|+l les anon l|max rolls = 92
+<< >overused
+|L| Ahriblackouter
+<< >overused
+|J| gabry2209ca
+<< >overused
+|J| Perez-Reverte
+<< >overused
+|c:|1488188290| always memes|no
+<< >overused
+|L| djahax
+<< >overused
+|J| tomisntgay
+<< >overused
+|c:|1488188292| always memes|lol
+<< >overused
+|c:|1488188297| always memes|max roll in 9
+<< >overused
+|L|perezreverte
+<< >overused
+|c:|1488188301|+l les anon l|252 Atk Dugtrio Earthquake vs. 252 HP / 0 Def Mawile-Mega: 198-234 (65.1 - 76.9%) -- guaranteed 2HKO after Stealth Rock
+<< >overused
+|c:|1488188301| always memes|its 97
+<< >overused
+|L| danksnaps
+<< >overused
+|J| bengaltiger
+<< >overused
+|c:|1488188307| JoycapJoshST|http://www.smogon.com/forums/threads/metagame-discussion-thread-v2.3592140/page-17#post-7237172 this tell you anything lads?
+<< >overused
+|L| Cool.isMoltress◕‿◕
+<< >overused
+|L| Lyfhax0r
+<< >overused
+|L| ArabianOilPrince
+<< >overused
+|c:|1488188323| always memes|why does JoycapJoshST hve 87 as max
+<< >overused
+|L| gabry2209ca
+<< >overused
+|c:|1488188325|+l les anon l|76 (EQ) + 10 (sucker) + 6 (rocks)
+<< >overused
+|c:|1488188329|+l les anon l|dunno
+<< >overused
+|L| JaySyn
+<< >overused
+|c:|1488188331| always memes|252 Atk Dugtrio Earthquake vs. 252 HP / 0 Def Mawile-Mega: 224-266 (73.6 - 87.5%) -- guaranteed 2HKO after Stealth Rock
+<< >overused
+|J| Stattik shiv
+<< >overused
+|c:|1488188333| always memes|wut
+<< >overused
+|J| james36
+<< >overused
+|N|@Baton Mash (|polisquad
+<< >overused
+|c:|1488188353|+l les anon l|wait
+<< >overused
+|c:|1488188355| JoycapJoshST|oh right that - yeah I was asking myself the same thing lol
+<< >overused
+|J| Undistinguished
+<< >overused
+|c:|1488188356|+l les anon l|i was on xy calc
+<< >overused
+|L| Abhishek trainer
+<< >overused
+|c:|1488188363| RedzoneX|lolll
+<< |pm| amatistagranate4| hmmmmmwow|https://youtu.be/ftMosvTFJ0M suscribe
+<< >overused
+|c:|1488188366| james36|are there any sample teams for gen 7 yet?
+<< >overused
+|c:|1488188366|+l les anon l|rip
+<< >overused
+|c:|1488188367| always memes|so i was right
+<< >overused
+|c:|1488188369|+l les anon l|no james36
+<< >overused
+|J| danksnaps
+<< >overused
+|c:|1488188371| always memes|its a roll after rocks
+<< >overused
+|J| Abhishek trainer
+<< >overused
+|c:|1488188376|+l les anon l|ye
+<< >overused
+|N| abhishek trainer|abhishektrainer
+<< >overused
+|c:|1488188378| RedzoneX|theres the ou bazaar
+<< >overused
+|J| peanutbutterkiller
+<< >overused
+|J| feederteam
+<< >overused
+|J| Teak_PR
+<< >overused
+|L| Zibo
+<< >overused
+|c:|1488188411|+l les anon l|yesterday i linked the bazaar
+<< >overused
+|J| ZubiDoobiDoo
+<< >overused
+|L| Yijun
+<< >overused
+|c:|1488188416|+l les anon l|someone pm'ed me asking: do you sell teams?
+<< >overused
+|L| ACwolf
+<< >overused
+|L| coolfreeze
+<< >overused
+|J| Yijun
+<< >overused
+|L| Jeffweff123
+<< >overused
+|J| kwame
+<< >overused
+|c:|1488188438|+l les anon l|bazaars aren't just for selling, right?
+<< >overused
+|L| Jon greene
+<< >overused
+|L| peanutbutterkiller
+<< >overused
+|J| Apenas ._.)
+<< >overused
+|c:|1488188460| Its ok to burn|bazaar is hindi for market...
+<< >overused
+|c:|1488188464| RedzoneX|you should have said yes
+<< >overused
+|L| ZubiDoobiDoo
+<< >overused
+|c:|1488188467| Its ok to burn|it is for selling
+<< >overused
+|L| JoycapJoshST
+<< >overused
+|J| CapitanMurasha
+<< >overused
+|J| MerlinMs
+<< >overused
+|L| Bad Players
+<< >overused
+|c:|1488188480| Its ok to burn|only
+<< >overused
+|J| luka600
+<< >overused
+|L| Shousuke234
+<< >overused
+|L| MerlinMs
+<< >overused
+|c:|1488188486| RedzoneX|Its ok to burn the word is persian, not hindi
+<< >overused
+|L| SensualDane
+<< >overused
+|J| Colac Jack
+<< >overused
+|N| silent sh0ut|vubon
+<< >overused
+|L| luka600
+<< >overused
+|L| Thunder Pokemooon
+<< >overused
+|L| bfif
+<< >overused
+|J| Nekotuo
+<< >overused
+|c:|1488188509|+l les anon l|kewl
+<< >overused
+|J| Atrain42169
+<< >overused
+|c:|1488188517|+l les anon l|I always thought of bazaars as fairs
+<< >overused
+|J| daninovoa2007
+<< >overused
+|J| Jevonar
+<< >overused
+|J| Vastus
+<< >overused
+|J| stephengee77
+<< >overused
+|c:|1488188533| RedzoneX|bazaar ~= market
+<< >overused
+|L| rileykiller5
+<< >overused
+|c:|1488188545| Its ok to burn|RedzoneX it has been hindi word for ever
+<< >overused
+|J|+Lost Seso ✇
+<< >overused
+|c:|1488188554| Its ok to burn|and it does mean market in hindi
+<< >overused
+|c:|1488188554| Machiavelli|it originates in persia tho
+<< >overused
+|c:|1488188558| RedzoneX|https://en.wikipedia.org/wiki/Bazaar
+<< >overused
+|c:|1488188566| Its ok to burn|idk about persian
+<< >overused
+|c:|1488188572|@Baton Mash (|//warn RedzoneX, lb lul
+<< >overused
+|L| Randbat Spam
+<< >overused
+|J| xoLIGHTox
+<< >overused
+|c:|1488188575|@Baton Mash (|hue
+<< >overused
+|c:|1488188581| RedzoneX|frowny face
+<< >overused
+|J| siempre13
+<< >overused
+|J| Dr. Elite
+<< >overused
+|c:|1488188592|@Baton Mash (|oh yea u guys have to type it out
+<< >overused
+|c:|1488188593|@Baton Mash (|:(
+<< >overused
+|J| MetaManectrix
+<< >overused
+|c:|1488188604| Its ok to burn|free the frowny and happy face
+<< >overused
+|L| daninovoa2007
+<< >overused
+|J| JoycapJoshST
+<< >overused
+|c:|1488188608|+l les anon l|nah we can do :c
+<< >overused
+|L| MetaManectrix
+<< >overused
+|N| Shin E Mc G|niclovin
+<< >overused
+|c:|1488188612|+l les anon l|:c > :( anyways
+<< >overused
+|c:|1488188614| Its ok to burn|facts
+<< >overused
+|N| les anon|llesanonl
+<< >overused
+|c:|1488188621| les anon|c:
+<< >overused
+|c:|1488188622| RedzoneX|c: < :) though
+<< >overused
+|c:|1488188625| Machiavelli|c:
+<< >overused
+|c:|1488188626|@Baton Mash (|Its ok to burn p sure only Ros can
+<< >overused
+|J| bisous
+<< >overused
+|c:|1488188632| Its ok to burn|ik
+<< >overused
+|N|+l les anon l|lesanon
+<< >overused
+|J| Smiley94
+<< >overused
+|N|#playerW17|aishiteiru
+<< >overused
+|J| NoisyALT
+<< >overused
+|c:|1488188649| Vastus|oh wow, it came down to 1 or 2 votes
+<< >overused
+|c:|1488188651|#playerW17|I have no idea how to free them
+<< >overused
+|c:|1488188652| Colac Jack|yes duggy survived
+<< >overused
+|N| HectorFlaccidMode|alwaysmemes
+<< >overused
+|L| Sinisterbg
+<< >overused
+|L| caesium
+<< >overused
+|c:|1488188666| Colac Jack|wait
+<< >overused
+|c:|1488188671| Colac Jack|is the bee here?
+<< >overused
+|c:|1488188672|@Baton Mash (|//roomsettings
+<< >overused
+|c:|1488188673|@Baton Mash (|playerW17
+<< >overused
+|c:|1488188675|+l les anon l|Not yet
+<< >overused
+|J| 31337_n00b
+<< >overused
+|c:|1488188681| NoisyALT|wow
+<< >overused
+|c:|1488188683| Colac Jack|any idea when?
+<< >overused
+|c:|1488188684| NoisyALT|bm is back
+<< >overused
+|c:|1488188686|+l les anon l|soon
+<< >overused
+|raw|<div class="broadcast-blue"><b>if you chose not to get reqs because &quot;dugtrio will be banned anyway&quot; it&apos;s YOUR fault that dugtrio is still here</b></div>
+<< >overused
+|L| Sun ~
+<< >overused
+|J| bfif
+<< >overused
+|c:|1488188691|#playerW17|Baton Mash
+<< >overused
+|c:|1488188697|#playerW17|it doesnt let me free no letters
+<< >overused
+|c:|1488188699| lonelyheffalump|Scoli is op
+<< >overused
+|J| Superzanada
+<< >overused
+|c:|1488188699|@Baton Mash (|lol
+<< >overused
+|J| ideclareathumbwar
+<< >overused
+|L| Smiley94
+<< >overused
+|raw|<div class="broadcast-red"><b>Moderated chat was set to +!</b><br />Only users of rank + and higher can talk.</div>
+<< >overused
+|c:|1488188709|@Baton Mash (|shit
+<< >overused
+|c:|1488188709|#playerW17|wew
+<< >overused
+|c:|1488188712|#playerW17|what
+<< >overused
+|raw|<div class="broadcast-red"><b>Moderated chat was set to autoconfirmed!</b><br />Only users of rank autoconfirmed and higher can talk.</div>
+<< >overused
+|c:|1488188713| Vastus|oi
+<< >overused
+|c:|1488188713| lonelyheffalump|wait
+<< >overused
+|c:|1488188714|+l les anon l|:O
+<< >overused
+|c:|1488188715|@Baton Mash (|sorry
+<< >overused
+|c:|1488188716| NoisyALT|wtf
+<< >overused
+|c:|1488188716| lonelyheffalump|Can i still talk?
+<< >overused
+|J| Omari P alt
+<< >overused
+|c:|1488188718|@Baton Mash (|i touched smthn
+<< >overused
+|c:|1488188718| Its ok to burn|lul
+<< >overused
+|c:|1488188719| Lord Wallace|I just want Metagross banned, fuck that thing
+<< >overused
+|L| toin
+<< >overused
+|J| Troubled Times
+<< >overused
+|c:|1488188723| NoisyALT|demote bm
+<< >overused
+|c:|1488188724| lonelyheffalump|Can u read me
+<< >overused
+|L| Phoenix Christ
+<< >overused
+|c:|1488188727| Lord Wallace|didnt care either way on dug
+<< >overused
+|c:|1488188731| IcOnpenguine|whats wrong with dugtrio
+<< >overused
+|c:|1488188732| johhhn wayyyne|baton mash = tyrant
+<< >overused
+|c:|1488188733| johhhn wayyyne|x
+<< >overused
+|c:|1488188735|@Baton Mash (|lol
+<< >overused
+|L| desfghjk
+<< >overused
+|J| beast boost
+<< >overused
+|c:|1488188743| Colac Jack|at least metagross loses a bit of power thanks to dug
+<< >overused
+|c:|1488188746|+l les anon l|IcOnpenguine have you read the original post? it sums it up quite nicely
+<< >overused
+|L| 2kPiT
+<< >overused
+|c:|1488188749| 5th|it has three heads IcOnpenguine
+<< >overused
+|c:|1488188750| Colac Jack|same with incoming mawile
+<< >overused
+|L| portchy
+<< >overused
+|c:|1488188751| NoisyALT|when did your name change happen
+<< >overused
+|c:|1488188756|@Baton Mash (|today
+<< >overused
+|L| Just Press Accept
+<< >overused
+|N| Vubon|silentsh0ut
+<< >overused
+|J| backit
+<< >overused
+|c:|1488188765| NoisyALT|thank god for that :P
+<< >overused
+|N| turkey murkey|noobdeek
+<< >overused
+|c:|1488188768| RedzoneX|lol
+<< >overused
+|L| Cpt funky fresh
+<< >overused
+|N| Its ok to burn|itsoktoburn
+<< >overused
+|J| Skyzuma♚
+<< >overused
+|J| Phoenix Christ
+<< >overused
+|J| Doggoq
+<< >overused
+|L| Skyzuma♚
+<< >overused
+|N| Its ok to crit|itsoktoburn
+<< >overused
+|c:|1488188783| IcOnpenguine|ill check it out
+<< >overused
+|c:|1488188791| Colac Jack|is there a thing explaining the suspect test result?
+<< >overused
+|c:|1488188793| GiftedPack|what Elo do you start running into the dreaded dugtrio stall teams?
+<< >overused
+|c:|1488188798| Vastus|when are the new megas coming in btw?
+<< >overused
+|J| personjerry
+<< >overused
+|c:|1488188802|+l les anon l|0 GiftedPack
+<< >overused
+|L| personjerry
+<< >overused
+|L| danksnaps
+<< >overused
+|J| Keoma
+<< >overused
+|J| MasterStefano
+<< >overused
+|J| Skeldkek
+<< >overused
+|c:|1488188806|+l les anon l|Soon
+<< >overused
+|L| Keoma
+<< >overused
+|J| YoungMetro9
+<< >overused
+|c:|1488188820| Lord Wallace|I mean not really Dug still just dies to their priority moves unless it has Sash intact, and then its too weak to OHKO and actually loses 1v1 against healthy Grosses. Dug is more so for stuff like Hoopa-Unbound that eats stall
+<< >overused
+|c:|1488188820| Vastus|ah so no set date yet
+<< >overused
+|L| NoisyALT
+<< >overused
+|J| test v.04
+<< >overused
+|c:|1488188824| GiftedPack|im around 1300s and 2 accounts and have yet to see them
+<< >overused
+|L| Doggoq
+<< >overused
+|c:|1488188834|+l les anon l|http://www.smogon.com/forums/threads/sm-ou-suspect-process-round-2-voting.3596753/page-7#post-7250646 Colac Jack
+<< >overused
+|J| MaxRapture
+<< >overused
+|L| Robin Tekashi
+<< >overused
+|c:|1488188845| FreedGardener|gyro ball or power whip on double hazards ferrothorn?
+<< >overused
+|L| MaxRapture
