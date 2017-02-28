@@ -28,6 +28,7 @@ Wikipedia has a detailed introduction to [the Pokémon game mechanics](https://e
             - we can! current url is `wss://sim.smogon.com/showdown/websocket`
             - how to connect the "right" way though? this looks like some sort of generated url
                 - see server/PROTOCOL.md!!!!
+                    - there are EXAMPLES!!!
     - [ ] authenticate with server and register a name
         - handle the name being taken / passworded
     - [ ] list what commands the client sends to server that are relevant to us and vice versa
