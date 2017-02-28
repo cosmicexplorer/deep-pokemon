@@ -30,6 +30,7 @@ Wikipedia has a detailed introduction to [the Pokémon game mechanics](https://e
 
 # Notes
 ## Reverse Engineering the Pokémon Showdown Client
+- most commands are sent/handled in client in client/js/client-battle.js, in server in server/battle-engine.js
 - all updates to game state are exactly the same as in a [replay](OU-2015-03-13-getbacker-crashinboombang.html)
     - everything sent over single websocket
         - this is then echoed to the console log with `<<` in front
@@ -58,6 +59,7 @@ Wikipedia has a detailed introduction to [the Pokémon game mechanics](https://e
     1. pure tree search (value)
     2. add supervised policy network (guessing expert play)
     3. fast policy (maybe)
+- check out [cfr](http://cs.gettysburg.edu/~tneller/modelai/2013/cfr/index.html) (and [here](https://www.quora.com/What-is-an-intuitive-explanation-of-counterfactual-regret-minimization)?)
 
 ## Evaluation Methods
 - consider openai gym?
