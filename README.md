@@ -23,6 +23,15 @@ Wikipedia has a detailed introduction to [the Pokémon game mechanics](https://e
 
 1. [ ] Produce a proof of concept client which interfaces with the Pokémon Showdown simulator.
     - Documentation produced to explain how to use the client to battle against other players on a server.
+    - [ ] connect to server websocket
+        - hopefully we can do this without having to load a web page at all
+            - we can! current url is `wss://sim.smogon.com/showdown/websocket`
+            - how to connect the "right" way though? this looks like some sort of generated url
+                - see server/PROTOCOL.md!!!!
+    - [ ] authenticate with server and register a name
+        - handle the name being taken / passworded
+    - [ ] list what commands the client sends to server that are relevant to us and vice versa
+        - most commands are sent/handled in client in client/js/client-battle.js, in server in server/battle-engine.js
 2. [ ] Generate toy game and script to play the game which invokes TensorFlow to generate each new action to be performed.
     - Documentation produced to explain the rules of the toy game, how to run the script, and how to evaluate its accuracy.
 3. [ ] Encode game mechanics into a script which uses TensorFlow to play entire games against human opponents on the simulator.
