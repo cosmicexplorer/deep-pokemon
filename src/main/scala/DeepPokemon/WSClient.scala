@@ -11,10 +11,12 @@ import org.java_websocket.handshake.ServerHandshake
 import org.json.JSONException
 
 class WSClient(uri: URI) extends WebSocketClient(uri) {
+  val ctx = SSLContext.getInstance("TLS")
+  ctx.init(null, null, null)
+  setWebSocketFactory(new DefaultSSLWebSocketClientFactory(ctx))
+
   override def onMessage(message: String): Unit = {
     println(message)
-    // JSONObject obj = new JSONObject(message);
-    // String channel = obj.getString("channel");
   }
 
   override def onOpen(handshake: ServerHandshake): Unit = {
@@ -35,11 +37,6 @@ object WSClient extends App {
   println(websocket_address)
 
   val sock = new WSClient(new URI(websocket_address))
-
-  val sslContext = SSLContext.getInstance("TLS")
-  sslContext.init(null, null, null)
-
-  sock.setWebSocketFactory(new DefaultSSLWebSocketClientFactory(sslContext))
 
   sock.connectBlocking()
 
