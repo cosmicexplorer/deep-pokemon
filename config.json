@@ -1,3 +1,8 @@
 {
-  "ws_address": "wss://sim.smogon.com/showdown/websocket"
+  "action_address": "play.pokemonshowdown.com",
+  "action_path": "/action.php",
+  "sim_address": "sim.smogon.com",
+  "http_protocol": "https",
+  "ws_protocol": "wss",
+  "ws_path": "/showdown/websocket"
 }

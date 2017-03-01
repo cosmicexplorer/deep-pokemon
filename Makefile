@@ -1,6 +1,6 @@
 .PHONY: all run clean-bin clean test
 
-WEBSOCK_ADDRESS := $(shell jq -r '.ws_address' ./config.json)
+CONFIG_FILE := config.json
 
 BUILD_DIR := build
 JAR_NAME := DeepPokemon.jar
@@ -21,7 +21,7 @@ $(OUT_JAR): $(PROJ_FILES) $(SRC_FILES)
 all: $(OUT_JAR)
 
 run: all
-	scala $(OUT_JAR) $(WEBSOCK_ADDRESS)
+	scala $(OUT_JAR) $(CONFIG_FILE)
 
 test: all
 	sbt test
