@@ -9,8 +9,9 @@ lazy val root = (project in file(".")).
     )),
     name := "deep-pokemon",
     libraryDependencies += scalaTest % Test,
-    libraryDependencies += "org.java-websocket" % "Java-WebSocket" % "latest.integration",
-    libraryDependencies += "org.json" % "json" % "20160810",
+    libraryDependencies += "org.java-websocket" % "Java-WebSocket" % "1.3.0",
+    libraryDependencies += "org.scalaj" %% "scalaj-http" % "2.3.0",
+    libraryDependencies += "org.parboiled" %% "parboiled-scala" % "1.1.8",
     mainClass in assembly := Some("DeepPokemon.WSClient"),
     assemblyOutputPath in assembly := file(System.getProperty("build.location"))
   )

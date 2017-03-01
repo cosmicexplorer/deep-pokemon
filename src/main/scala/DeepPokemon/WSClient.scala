@@ -4,19 +4,20 @@ import java.net._
 import java.io._
 import javax.net.ssl._
 
-import org.java_websocket.WebSocketImpl
 import org.java_websocket.client._
-import org.java_websocket.drafts.Draft_17
 import org.java_websocket.handshake.ServerHandshake
-import org.json.JSONException
+import scalaj.http._
 
 class WSClient(uri: URI) extends WebSocketClient(uri) {
   val ctx = SSLContext.getInstance("TLS")
   ctx.init(null, null, null)
   setWebSocketFactory(new DefaultSSLWebSocketClientFactory(ctx))
 
+  val parser = new ShowdownParser
+
   override def onMessage(message: String): Unit = {
-    println(message)
+    println(s"msg: '$message'")
+    println(s"str: ${parser.parse(message)}")
   }
 
   override def onOpen(handshake: ServerHandshake): Unit = {
@@ -24,7 +25,8 @@ class WSClient(uri: URI) extends WebSocketClient(uri) {
   }
 
   override def onClose(code: Int, reason: String, remote: Boolean): Unit = {
-    println(s"closed connection; code: '$code', reason: '$reason', remote: '$remote'")
+    println(s"closed connection; code: '$code', " +
+      s"reason: '$reason', remote: '$remote'")
   }
 
   override def onError(ex: Exception): Unit = {
