@@ -79,3 +79,10 @@ Wikipedia has a detailed introduction to [the Pokémon game mechanics](https://e
     - (to be used only on validation set?)
     - this is essentially what a ladder ranking is trying to do
         - it's kinda like chess's `ELO`
+
+# Links
+- https://github.com/ivan-vasilev/neuralnetworks
+- https://github.com/Rochester-NRT/RocAlphaGo/wiki/01.-Home
+- https://en.wikipedia.org/wiki/Monte_Carlo_tree_search
+- https://github.com/finagle/finagle-websocket
+- https://github.com/finagle/finagle-websocket/blob/develop/src/test/scala/com/twitter/finagle/websocket/EndToEndTest.scala
